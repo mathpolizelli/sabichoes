@@ -1,0 +1,218 @@
+{
+    "1": {
+        "question": "Quem descobriu o Brasil?",
+        "answer1": "Pedro Álvares Cabral",
+        "answer2": "Pero Vaz de Caminha",
+        "answer3": "Machado de Assis",
+        "answer4": "Cristóvão Colombo",
+        "correctanswer": "Pedro Álvares Cabral"
+    },
+    "2": {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "answer1": "Marte",
+        "answer2": "Júpiter",
+        "answer3": "Saturno",
+        "answer4": "Terra",
+        "correctanswer": "Júpiter"
+    },
+    "3": {
+        "question": "Qual é o nome do lugar onde os animais são mantidos para exibição ao público?",
+        "answer1": "Aquário",
+        "answer2": "Zoológico",
+        "answer3": "Reserva Natural",
+        "answer4": "Parque Nacional",
+        "correctanswer": "Zoológico"
+    },
+    "4": {
+        "question": "Quem pintou a Mona Lisa?",
+        "answer1": "Vincent van Gogh",
+        "answer2": "Pablo Picasso",
+        "answer3": "Leonardo da Vinci",
+        "answer4": "Claude Monet",
+        "correctanswer": "Leonardo da Vinci"
+    },
+    "5": {
+        "question": "Qual é o menor país do mundo?",
+        "answer1": "Mônaco",
+        "answer2": "Nauru",
+        "answer3": "Vaticano",
+        "answer4": "Malta",
+        "correctanswer": "Vaticano"
+    },
+    "6": {
+        "question": "Qual é o oceano que banha o Brasil?",
+        "answer1": "Oceano Pacífico",
+        "answer2": "Oceano Índico",
+        "answer3": "Oceano Atlântico",
+        "answer4": "Oceano Ártico",
+        "correctanswer": "Oceano Atlântico"
+    },
+    "7": {
+        "question": "Qual é o maior mamífero terrestre?",
+        "answer1": "Elefante",
+        "answer2": "Hipopótamo",
+        "answer3": "Rinoceronte",
+        "answer4": "Girafa",
+        "correctanswer": "Elefante"
+    },
+    "8": {
+        "question": "Qual é o nome do personagem principal da série Harry Potter?",
+        "answer1": "Hermione Granger",
+        "answer2": "Harry Potter",
+        "answer3": "Ron Weasley",
+        "answer4": "Draco Malfoy",
+        "correctanswer": "Harry Potter"
+    },
+    "9": {
+        "question": "Qual é o país conhecido como a Terra do Sol Nascente?",
+        "answer1": "China",
+        "answer2": "Japão",
+        "answer3": "Coreia do Sul",
+        "answer4": "Tailândia",
+        "correctanswer": "Japão"
+    },
+    "10": {
+        "question": "Qual é o elemento químico representado pelo símbolo O?",
+        "answer1": "Osmium",
+        "answer2": "Oxigênio",
+        "answer3": "Ouro",
+        "answer4": "Ósmio",
+        "correctanswer": "Oxigênio"
+    },
+    "11": {
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "answer1": "William Shakespeare",
+        "answer2": "Miguel de Cervantes",
+        "answer3": "Gabriel García Márquez",
+        "answer4": "J.K. Rowling",
+        "correctanswer": "Miguel de Cervantes"
+    },
+    "12": {
+        "question": "Qual é a capital da França?",
+        "answer1": "Berlim",
+        "answer2": "Madrid",
+        "answer3": "Roma",
+        "answer4": "Paris",
+        "correctanswer": "Paris"
+    },
+    "13": {
+        "question": "Qual é o menor continente do mundo?",
+        "answer1": "Europa",
+        "answer2": "Oceania",
+        "answer3": "América do Sul",
+        "answer4": "Antártica",
+        "correctanswer": "Oceania"
+    },
+    "14": {
+        "question": "Qual é o animal mais rápido do mundo?",
+        "answer1": "Leopardo",
+        "answer2": "Guepardo",
+        "answer3": "Falcão-peregrino",
+        "answer4": "Leão",
+        "correctanswer": "Guepardo"
+    },
+    "15": {
+        "question": "Qual é o nome do gás mais abundante na atmosfera da Terra?",
+        "answer1": "Oxigênio",
+        "answer2": "Dióxido de carbono",
+        "answer3": "Nitrogênio",
+        "answer4": "Argônio",
+        "correctanswer": "Nitrogênio"
+    },
+    "16": {
+        "question": "Qual é a moeda usada no Japão?",
+        "answer1": "Yuan",
+        "answer2": "Dólar",
+        "answer3": "Iene",
+        "answer4": "Won",
+        "correctanswer": "Iene"
+    },
+    "17": {
+        "question": "Qual é a maior floresta tropical do mundo?",
+        "answer1": "Floresta Amazônica",
+        "answer2": "Floresta do Congo",
+        "answer3": "Floresta da Tasmânia",
+        "answer4": "Floresta da Bósnia",
+        "correctanswer": "Floresta Amazônica"
+    },
+    "18": {
+        "question": "Qual é o nome do cientista que formulou a teoria da gravidade?",
+        "answer1": "Albert Einstein",
+        "answer2": "Galileu Galilei",
+        "answer3": "Isaac Newton",
+        "answer4": "Nikola Tesla",
+        "correctanswer": "Isaac Newton"
+    },
+    "19": {
+        "question": "Qual é o maior oceano do mundo?",
+        "answer1": "Oceano Atlântico",
+        "answer2": "Oceano Índico",
+        "answer3": "Oceano Pacífico",
+        "answer4": "Oceano Ártico",
+        "correctanswer": "Oceano Pacífico"
+    },
+    "20": {
+        "question": "Qual é o esporte mais popular do Brasil?",
+        "answer1": "Basquete",
+        "answer2": "Vôlei",
+        "answer3": "Futebol",
+        "answer4": "Tênis",
+        "correctanswer": "Futebol"
+    },
+    "21": {
+        "question": "Quem foi o primeiro presidente do Brasil?",
+        "answer1": "Getúlio Vargas",
+        "answer2": "Juscelino Kubitschek",
+        "answer3": "Deodoro da Fonseca",
+        "answer4": "Floriano Peixoto",
+        "correctanswer": "Deodoro da Fonseca"
+    },
+    "22": {
+        "question": "Qual é o maior rio do mundo em volume de água?",
+        "answer1": "Rio Nilo",
+        "answer2": "Rio Yangtzé",
+        "answer3": "Rio Amazonas",
+        "answer4": "Rio Mississipi",
+        "correctanswer": "Rio Amazonas"
+    },
+    "23": {
+        "question": "Qual é o nome do famoso cientista que propôs a teoria da evolução?",
+        "answer1": "Louis Pasteur",
+        "answer2": "Charles Darwin",
+        "answer3": "Gregor Mendel",
+        "answer4": "Marie Curie",
+        "correctanswer": "Charles Darwin"
+    },
+    "24": {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "answer1": "Terra",
+        "answer2": "Marte",
+        "answer3": "Vênus",
+        "answer4": "Mercúrio",
+        "correctanswer": "Mercúrio"
+    },
+    "25": {
+        "question": "Qual é o animal símbolo da Austrália?",
+        "answer1": "Panda",
+        "answer2": "Elefante",
+        "answer3": "Canguru",
+        "answer4": "Girafa",
+        "correctanswer": "Canguru"
+    },
+    "26": {
+        "question": "Qual é a capital do Brasil?",
+        "answer1": "Rio de Janeiro",
+        "answer2": "São Paulo",
+        "answer3": "Brasília",
+        "answer4": "Salvador",
+        "correctanswer": "Brasília"
+    },
+    "27": {
+        "question": "Qual é o maior país do mundo em área territorial?",
+        "answer1": "Canadá",
+        "answer2": "China",
+        "answer3": "Estados Unidos",
+        "answer4": "Rússia",
+        "correctanswer": "Rússia"
+    }
+}
