@@ -1,218 +1,227 @@
 {
     "1": {
-        "question": "Quem descobriu o Brasil?",
-        "answer1": "Pedro Álvares Cabral",
-        "answer2": "Pero Vaz de Caminha",
-        "answer3": "Machado de Assis",
-        "answer4": "Cristóvão Colombo",
-        "correctanswer": "Pedro Álvares Cabral"
+        "question": "Qual é o sinônimo de 'feliz'?",
+        "answer1": "Triste",
+        "answer2": "Contente",
+        "answer3": "Bravo",
+        "answer4": "Cansado",
+        "correctanswer": "Contente",
+        "subject": "Português"
     },
     "2": {
-        "question": "Qual é o maior planeta do sistema solar?",
-        "answer1": "Marte",
-        "answer2": "Júpiter",
-        "answer3": "Saturno",
-        "answer4": "Terra",
-        "correctanswer": "Júpiter"
+        "question": "Qual palavra está escrita corretamente?",
+        "answer1": "Chuveu",
+        "answer2": "Choveu",
+        "answer3": "Chovêu",
+        "answer4": "Chuvêu",
+        "correctanswer": "Choveu",
+        "subject": "Português"
     },
     "3": {
-        "question": "Qual é o nome do lugar onde os animais são mantidos para exibição ao público?",
-        "answer1": "Aquário",
-        "answer2": "Zoológico",
-        "answer3": "Reserva Natural",
-        "answer4": "Parque Nacional",
-        "correctanswer": "Zoológico"
+        "question": "Qual das palavras abaixo é um substantivo?",
+        "answer1": "Correr",
+        "answer2": "Azul",
+        "answer3": "Amizade",
+        "answer4": "Rápido",
+        "correctanswer": "Amizade",
+        "subject": "Português"
     },
     "4": {
-        "question": "Quem pintou a Mona Lisa?",
-        "answer1": "Vincent van Gogh",
-        "answer2": "Pablo Picasso",
-        "answer3": "Leonardo da Vinci",
-        "answer4": "Claude Monet",
-        "correctanswer": "Leonardo da Vinci"
+        "question": "Qual é o antônimo de 'alto'?",
+        "answer1": "Grande",
+        "answer2": "Pequeno",
+        "answer3": "Baixo",
+        "answer4": "Longe",
+        "correctanswer": "Baixo",
+        "subject": "Português"
     },
     "5": {
-        "question": "Qual é o menor país do mundo?",
-        "answer1": "Mônaco",
-        "answer2": "Nauru",
-        "answer3": "Vaticano",
-        "answer4": "Malta",
-        "correctanswer": "Vaticano"
+        "question": "Qual das frases está no tempo futuro?",
+        "answer1": "Eu estudei ontem.",
+        "answer2": "Eu estudo hoje.",
+        "answer3": "Eu estudarei amanhã.",
+        "answer4": "Eu estudava sempre.",
+        "correctanswer": "Eu estudarei amanhã.",
+        "subject": "Português"
     },
     "6": {
-        "question": "Qual é o oceano que banha o Brasil?",
-        "answer1": "Oceano Pacífico",
-        "answer2": "Oceano Índico",
-        "answer3": "Oceano Atlântico",
-        "answer4": "Oceano Ártico",
-        "correctanswer": "Oceano Atlântico"
+        "question": "Quanto é 25 + 17?",
+        "answer1": "42",
+        "answer2": "41",
+        "answer3": "43",
+        "answer4": "40",
+        "correctanswer": "42",
+        "subject": "Matemática"
     },
     "7": {
-        "question": "Qual é o maior mamífero terrestre?",
-        "answer1": "Elefante",
-        "answer2": "Hipopótamo",
-        "answer3": "Rinoceronte",
-        "answer4": "Girafa",
-        "correctanswer": "Elefante"
+        "question": "Qual é o resultado de 7 x 8?",
+        "answer1": "54",
+        "answer2": "56",
+        "answer3": "58",
+        "answer4": "60",
+        "correctanswer": "56",
+        "subject": "Matemática"
     },
     "8": {
-        "question": "Qual é o nome do personagem principal da série Harry Potter?",
-        "answer1": "Hermione Granger",
-        "answer2": "Harry Potter",
-        "answer3": "Ron Weasley",
-        "answer4": "Draco Malfoy",
-        "correctanswer": "Harry Potter"
+        "question": "Se tenho 15 maçãs e dou 7, com quantas fico?",
+        "answer1": "6",
+        "answer2": "7",
+        "answer3": "8",
+        "answer4": "9",
+        "correctanswer": "8",
+        "subject": "Matemática"
     },
     "9": {
-        "question": "Qual é o país conhecido como a Terra do Sol Nascente?",
-        "answer1": "China",
-        "answer2": "Japão",
-        "answer3": "Coreia do Sul",
-        "answer4": "Tailândia",
-        "correctanswer": "Japão"
+        "question": "Qual é a fração que representa metade de um todo?",
+        "answer1": "1/4",
+        "answer2": "1/2",
+        "answer3": "1/3",
+        "answer4": "2/3",
+        "correctanswer": "1/2",
+        "subject": "Matemática"
     },
     "10": {
-        "question": "Qual é o elemento químico representado pelo símbolo O?",
-        "answer1": "Osmium",
-        "answer2": "Oxigênio",
-        "answer3": "Ouro",
-        "answer4": "Ósmio",
-        "correctanswer": "Oxigênio"
+        "question": "Qual número é maior?",
+        "answer1": "482",
+        "answer2": "248",
+        "answer3": "284",
+        "answer4": "428",
+        "correctanswer": "482",
+        "subject": "Matemática"
     },
     "11": {
-        "question": "Quem escreveu 'Dom Quixote'?",
-        "answer1": "William Shakespeare",
-        "answer2": "Miguel de Cervantes",
-        "answer3": "Gabriel García Márquez",
-        "answer4": "J.K. Rowling",
-        "correctanswer": "Miguel de Cervantes"
-    },
-    "12": {
-        "question": "Qual é a capital da França?",
-        "answer1": "Berlim",
-        "answer2": "Madrid",
-        "answer3": "Roma",
-        "answer4": "Paris",
-        "correctanswer": "Paris"
-    },
-    "13": {
-        "question": "Qual é o menor continente do mundo?",
-        "answer1": "Europa",
-        "answer2": "Oceania",
-        "answer3": "América do Sul",
-        "answer4": "Antártica",
-        "correctanswer": "Oceania"
-    },
-    "14": {
-        "question": "Qual é o animal mais rápido do mundo?",
-        "answer1": "Leopardo",
-        "answer2": "Guepardo",
-        "answer3": "Falcão-peregrino",
-        "answer4": "Leão",
-        "correctanswer": "Guepardo"
-    },
-    "15": {
-        "question": "Qual é o nome do gás mais abundante na atmosfera da Terra?",
-        "answer1": "Oxigênio",
-        "answer2": "Dióxido de carbono",
-        "answer3": "Nitrogênio",
-        "answer4": "Argônio",
-        "correctanswer": "Nitrogênio"
-    },
-    "16": {
-        "question": "Qual é a moeda usada no Japão?",
-        "answer1": "Yuan",
-        "answer2": "Dólar",
-        "answer3": "Iene",
-        "answer4": "Won",
-        "correctanswer": "Iene"
-    },
-    "17": {
-        "question": "Qual é a maior floresta tropical do mundo?",
-        "answer1": "Floresta Amazônica",
-        "answer2": "Floresta do Congo",
-        "answer3": "Floresta da Tasmânia",
-        "answer4": "Floresta da Bósnia",
-        "correctanswer": "Floresta Amazônica"
-    },
-    "18": {
-        "question": "Qual é o nome do cientista que formulou a teoria da gravidade?",
-        "answer1": "Albert Einstein",
-        "answer2": "Galileu Galilei",
-        "answer3": "Isaac Newton",
-        "answer4": "Nikola Tesla",
-        "correctanswer": "Isaac Newton"
-    },
-    "19": {
-        "question": "Qual é o maior oceano do mundo?",
-        "answer1": "Oceano Atlântico",
-        "answer2": "Oceano Índico",
-        "answer3": "Oceano Pacífico",
-        "answer4": "Oceano Ártico",
-        "correctanswer": "Oceano Pacífico"
-    },
-    "20": {
-        "question": "Qual é o esporte mais popular do Brasil?",
-        "answer1": "Basquete",
-        "answer2": "Vôlei",
-        "answer3": "Futebol",
-        "answer4": "Tênis",
-        "correctanswer": "Futebol"
-    },
-    "21": {
-        "question": "Quem foi o primeiro presidente do Brasil?",
-        "answer1": "Getúlio Vargas",
-        "answer2": "Juscelino Kubitschek",
-        "answer3": "Deodoro da Fonseca",
-        "answer4": "Floriano Peixoto",
-        "correctanswer": "Deodoro da Fonseca"
-    },
-    "22": {
-        "question": "Qual é o maior rio do mundo em volume de água?",
-        "answer1": "Rio Nilo",
-        "answer2": "Rio Yangtzé",
-        "answer3": "Rio Amazonas",
-        "answer4": "Rio Mississipi",
-        "correctanswer": "Rio Amazonas"
-    },
-    "23": {
-        "question": "Qual é o nome do famoso cientista que propôs a teoria da evolução?",
-        "answer1": "Louis Pasteur",
-        "answer2": "Charles Darwin",
-        "answer3": "Gregor Mendel",
-        "answer4": "Marie Curie",
-        "correctanswer": "Charles Darwin"
-    },
-    "24": {
-        "question": "Qual é o planeta mais próximo do Sol?",
-        "answer1": "Terra",
-        "answer2": "Marte",
-        "answer3": "Vênus",
-        "answer4": "Mercúrio",
-        "correctanswer": "Mercúrio"
-    },
-    "25": {
-        "question": "Qual é o animal símbolo da Austrália?",
-        "answer1": "Panda",
-        "answer2": "Elefante",
-        "answer3": "Canguru",
-        "answer4": "Girafa",
-        "correctanswer": "Canguru"
-    },
-    "26": {
         "question": "Qual é a capital do Brasil?",
         "answer1": "Rio de Janeiro",
         "answer2": "São Paulo",
         "answer3": "Brasília",
         "answer4": "Salvador",
-        "correctanswer": "Brasília"
+        "correctanswer": "Brasília",
+        "subject": "Geografia"
     },
-    "27": {
-        "question": "Qual é o maior país do mundo em área territorial?",
-        "answer1": "Canadá",
-        "answer2": "China",
-        "answer3": "Estados Unidos",
-        "answer4": "Rússia",
-        "correctanswer": "Rússia"
+    "12": {
+        "question": "Em qual continente fica o Brasil?",
+        "answer1": "Europa",
+        "answer2": "África",
+        "answer3": "Ásia",
+        "answer4": "América do Sul",
+        "correctanswer": "América do Sul",
+        "subject": "Geografia"
+    },
+    "13": {
+        "question": "Qual é o maior oceano do mundo?",
+        "answer1": "Oceano Atlântico",
+        "answer2": "Oceano Índico",
+        "answer3": "Oceano Pacífico",
+        "answer4": "Oceano Ártico",
+        "correctanswer": "Oceano Pacífico",
+        "subject": "Geografia"
+    },
+    "14": {
+        "question": "Qual é a maior floresta tropical do mundo?",
+        "answer1": "Floresta Amazônica",
+        "answer2": "Floresta Negra",
+        "answer3": "Floresta de Sherwood",
+        "answer4": "Floresta do Congo",
+        "correctanswer": "Floresta Amazônica",
+        "subject": "Geografia"
+    },
+    "15": {
+        "question": "O que é uma bússola usada para determinar?",
+        "answer1": "Altitude",
+        "answer2": "Pressão",
+        "answer3": "Direção",
+        "answer4": "Temperatura",
+        "correctanswer": "Direção",
+        "subject": "Geografia"
+    },
+    "16": {
+        "question": "Quem foi o primeiro presidente do Brasil?",
+        "answer1": "Getúlio Vargas",
+        "answer2": "Juscelino Kubitschek",
+        "answer3": "Deodoro da Fonseca",
+        "answer4": "Pedro Álvares Cabral",
+        "correctanswer": "Deodoro da Fonseca",
+        "subject": "História"
+    },
+    "17": {
+        "question": "Em que ano o Brasil foi descoberto pelos portugueses?",
+        "answer1": "1500",
+        "answer2": "1492",
+        "answer3": "1600",
+        "answer4": "1700",
+        "correctanswer": "1500",
+        "subject": "História"
+    },
+    "18": {
+        "question": "Qual foi a capital do Brasil antes de Brasília?",
+        "answer1": "Recife",
+        "answer2": "Rio de Janeiro",
+        "answer3": "Salvador",
+        "answer4": "São Paulo",
+        "correctanswer": "Rio de Janeiro",
+        "subject": "História"
+    },
+    "19": {
+        "question": "Quem proclamou a Independência do Brasil?",
+        "answer1": "Dom Pedro II",
+        "answer2": "Dom João VI",
+        "answer3": "Dom Pedro I",
+        "answer4": "Tiradentes",
+        "correctanswer": "Dom Pedro I",
+        "subject": "História"
+    },
+    "20": {
+        "question": "Qual povo construiu as pirâmides do Egito?",
+        "answer1": "Romanos",
+        "answer2": "Gregos",
+        "answer3": "Egípcios",
+        "answer4": "Incas",
+        "correctanswer": "Egípcios",
+        "subject": "História"
+    },
+    "21": {
+        "question": "Qual destes é um planeta do sistema solar?",
+        "answer1": "Vênus",
+        "answer2": "Lua",
+        "answer3": "Sol",
+        "answer4": "Estrela",
+        "correctanswer": "Vênus",
+        "subject": "Ciências"
+    },
+    "22": {
+        "question": "Qual é o estado da água em temperatura ambiente?",
+        "answer1": "Sólido",
+        "answer2": "Líquido",
+        "answer3": "Gasoso",
+        "answer4": "Plasma",
+        "correctanswer": "Líquido",
+        "subject": "Ciências"
+    },
+    "23": {
+        "question": "O que as plantas precisam para fazer fotossíntese?",
+        "answer1": "Oxigênio",
+        "answer2": "Luz solar",
+        "answer3": "Sal",
+        "answer4": "Fósforo",
+        "correctanswer": "Luz solar",
+        "subject": "Ciências"
+    },
+    "24": {
+        "question": "Qual é o maior órgão do corpo humano?",
+        "answer1": "Coração",
+        "answer2": "Pulmão",
+        "answer3": "Fígado",
+        "answer4": "Pele",
+        "correctanswer": "Pele",
+        "subject": "Ciências"
+    },
+    "25": {
+        "question": "Qual é a principal função do esqueleto humano?",
+        "answer1": "Produzir sangue",
+        "answer2": "Movimentar o corpo",
+        "answer3": "Dar suporte e proteção",
+        "answer4": "Produzir energia",
+        "correctanswer": "Dar suporte e proteção",
+        "subject": "Ciências"
     }
 }
