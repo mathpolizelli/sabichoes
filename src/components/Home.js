@@ -1,8 +1,14 @@
-function Home() {
+import { Link } from "react-router-dom";
 
-    return (
-        <h1>HOME!</h1>
-    )
+import "../styles/Home.scss";
+
+function Home() {
+  return (
+    <div>
+      <Link to="/game" className="linkButton">JOGAR</Link>
+      <Link to="/ranking" className="linkButton">RANKING</Link>
+    </div>
+  );
 }
 
 export default Home;
