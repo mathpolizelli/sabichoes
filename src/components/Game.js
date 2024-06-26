@@ -132,13 +132,13 @@ function Game() {
           {playerName} fez {score} pontos!
         </h1>
         <button>
-          <Link to="/">HOME</Link>
+          <Link to="/gamificacao">HOME</Link>
         </button>
         <button>
-          <Link to="/game">GAME</Link>
+          <Link to="/gamificacao/game">GAME</Link>
         </button>
         <button>
-          <Link to="/ranking">RANKING</Link>
+          <Link to="/gamificacao/ranking">RANKING</Link>
         </button>
       </div>
     );

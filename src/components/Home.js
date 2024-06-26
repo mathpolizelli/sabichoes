@@ -7,11 +7,11 @@ function Home() {
   const navigate = useNavigate()
 
   const navigateToGame = () => {
-    navigate('/game')
+    navigate('/gamificacao/game')
   }
 
   const navigateToRanking = () => {
-    navigate('/ranking')
+    navigate('/gamificacao/ranking')
   }
 
   return (
