@@ -1,4 +1,14 @@
-.linkButton {
-    background-color: #dedede;
-    padding: 10px 300px;
+.home {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  .linkButton {
+    width: 300px;
+    height: 60px;
+    font-size: 20px;
+    
+  }
 }

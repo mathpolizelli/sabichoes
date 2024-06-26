@@ -1,12 +1,23 @@
-import { Link } from "react-router-dom";
+import { useState } from "react";
+import { Link, useNavigate } from "react-router-dom";
 
 import "../styles/Home.scss";
 
 function Home() {
+  const navigate = useNavigate()
+
+  const navigateToGame = () => {
+    navigate('/game')
+  }
+
+  const navigateToRanking = () => {
+    navigate('/ranking')
+  }
+
   return (
-    <div>
-      <Link to="/game" className="linkButton">JOGAR</Link>
-      <Link to="/ranking" className="linkButton">RANKING</Link>
+    <div className="home">
+      <button onClick={navigateToGame} className="linkButton">JOGAR</button>
+      <button onClick={navigateToRanking} className="linkButton">RANKING</button>
     </div>
   );
 }

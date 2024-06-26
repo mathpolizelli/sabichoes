@@ -12,7 +12,7 @@ function App() {
     <>
       <Router>
         <div className="navbar">
-          <h1>QUIZ</h1>
+          <h1>SABICHÕES</h1>
           <div className="links">
             <button className="link">
               <Link to="/">Home</Link>
