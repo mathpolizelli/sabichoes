@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/sabichoes/static/css/main.d5bab2d6.css",
-    "main.js": "/sabichoes/static/js/main.14d74f07.js",
+    "main.css": "/sabichoes/static/css/main.d3541079.css",
+    "main.js": "/sabichoes/static/js/main.93161d19.js",
     "static/js/453.123664b1.chunk.js": "/sabichoes/static/js/453.123664b1.chunk.js",
+    "static/media/wrong-sound.mp3": "/sabichoes/static/media/wrong-sound.c43ffa6dfba8814f921f.mp3",
+    "static/media/correct-sound.mp3": "/sabichoes/static/media/correct-sound.70b3c3fd9bafef2fdae9.mp3",
     "index.html": "/sabichoes/index.html",
-    "main.d5bab2d6.css.map": "/sabichoes/static/css/main.d5bab2d6.css.map",
-    "main.14d74f07.js.map": "/sabichoes/static/js/main.14d74f07.js.map",
+    "main.d3541079.css.map": "/sabichoes/static/css/main.d3541079.css.map",
+    "main.93161d19.js.map": "/sabichoes/static/js/main.93161d19.js.map",
     "453.123664b1.chunk.js.map": "/sabichoes/static/js/453.123664b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5bab2d6.css",
-    "static/js/main.14d74f07.js"
+    "static/css/main.d3541079.css",
+    "static/js/main.93161d19.js"
   ]
 }
