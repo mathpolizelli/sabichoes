@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { collection, addDoc } from "firebase/firestore";
-import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 import { db } from "../firebase";
 import "../styles/Game.scss";
@@ -28,6 +28,7 @@ function Game() {
   });
   const [lastQuestion, setLastQuestion] = useState(1);
   const [currentQuestion, setCurrentQuestion] = useState(1);
+
   const [defaultButtonStyles, setDefaultButtonStyles] = useState({
     backgroundColor: "#eaeaea",
     width: "300px",
@@ -42,9 +43,20 @@ function Game() {
   const [buttonStyle2, setButtonStyle2] = useState(defaultButtonStyles);
   const [buttonStyle3, setButtonStyle3] = useState(defaultButtonStyles);
   const [buttonStyle4, setButtonStyle4] = useState(defaultButtonStyles);
+  const [heartStyle1, setHeartStyle1] = useState({
+    "--c": "#f32732",
+  });
+  const [heartStyle2, setHeartStyle2] = useState({
+    "--c": "#f32732",
+  });
+  const [heartStyle3, setHeartStyle3] = useState({
+    "--c": "#f32732",
+  });
+  //#650a0e
   const [correctAudio] = useState(new Audio(correctSound));
   const [wrongAudio] = useState(new Audio(wrongSound));
   const n = 50;
+  const navigate = useNavigate();
 
   useEffect(() => {
     setQuestions(questionsjson);
@@ -129,6 +141,17 @@ function Game() {
           });
           break;
       }
+      switch (lives) {
+        case 3:
+          setHeartStyle3({ "--c": "#83cef5" });
+          break;
+        case 2:
+          setHeartStyle2({ "--c": "#83cef5" });
+          break;
+        case 1:
+          setHeartStyle1({ "--c": "#83cef5" });
+          break;
+      }
       setTimeout(() => {
         setCurrentQuestion(currentQuestion + 1);
         setStreak(1);
@@ -180,17 +203,36 @@ function Game() {
     setPlayerName(inputValue);
   };
 
+  const navigateToHome = () => {
+    setTimeout(() => {
+      navigate("/sabichoes");
+    }, 100);
+  };
+
+  const navigateToGame = () => {
+    setTimeout(() => {
+      navigate("/sabichoes/game");
+    }, 100);
+  };
+
+  const navigateToRanking = () => {
+    setTimeout(() => {
+      navigate("/sabichoes/ranking");
+    }, 100);
+  };
+
   // RENDER
 
   if (playerName == "") {
     return (
       <form className="nameForm" onSubmit={handleSubmit}>
-        <p>QUAL É O SEU NOME?</p>
+        <p>Qual é o seu nome?</p>
         <input
           type="text"
           value={inputValue}
           onChange={handleChange}
-          maxLength="25"
+          maxLength="15"
+          autoFocus
         ></input>
       </form>
     );
@@ -203,24 +245,28 @@ function Game() {
     }
 
     return (
-      <div>
-        <h1>GAME OVER</h1>
+      <div className="gameOver">
+        <h1>FIM DE JOGO</h1>
         <h1>
           {playerName} fez {score} pontos!
         </h1>
-        <button>
-          <Link to="/sabichoes">HOME</Link>
-        </button>
         <button
+          className="linkButton"
+          id="playAgain"
           onClick={() => {
             window.location.reload();
           }}
         >
-          <Link to="/sabichoes/game">GAME</Link>
+          Jogar novamente
         </button>
-        <button>
-          <Link to="/sabichoes/ranking">RANKING</Link>
-        </button>
+        <div className="smallButtons">
+          <button className="linkButton" onClick={navigateToHome}>
+            Home
+          </button>
+          <button className="linkButton" onClick={navigateToRanking}>
+            Ranking
+          </button>
+        </div>
       </div>
     );
   }
@@ -228,9 +274,14 @@ function Game() {
   return (
     <>
       <div className="questionCard">
-        <p>
-          {playerName} - {lives}
-        </p>
+        <div className="playerInfo">
+          <p>{playerName}</p>
+          <div className="lives">
+            <div className="heart" id="h3" style={heartStyle3}></div>
+            <div className="heart" id="h1" style={heartStyle1}></div>
+            <div className="heart" id="h2" style={heartStyle2}></div>
+          </div>
+        </div>
         <h2>
           {currentQuestion}. {questions[lastQuestion].question}
         </h2>
@@ -270,7 +321,9 @@ function Game() {
             {questions[lastQuestion].answer4}
           </button>
         </div>
-        <p>{score}</p>
+        <div className="score">
+          <p>{score}</p>
+        </div>
       </div>
     </>
   );
