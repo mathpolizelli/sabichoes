@@ -4,13 +4,35 @@
     justify-content: center;
     flex-wrap: wrap;
 
-    h2 {
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
         width: 100%;
         display: flex;
         justify-content: center;
+        text-align: center;
     }
 
-    ul {
-        list-style-type: none;
+    .rankingCard {
+        width: 300px;
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 15px;
+        
+        ol {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+
+            li {
+                margin: 15px 15px 15px 35px;
+            }
+        }
+    
+        ol:nth-of-type(2) {
+            text-align: end;
+            list-style-type: none;
+        }
     }
+
 }

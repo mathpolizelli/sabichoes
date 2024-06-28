@@ -27,21 +27,23 @@ function Ranking() {
   }, []);
   return (
     <div className="ranking">
-      <h2>Melhores jogadores!!</h2>
-      <ul>
-        {data.map((item) => (
-          <li key={item.id}>
-            {item.player}
-          </li>
-        ))}
-      </ul>
-      <ul>
-        {data.map((item) => (
-          <li key={item.id}>
-              {item.score}
-          </li>
-        ))}
-      </ul>
+      <h1>Melhores jogadores!!</h1>
+      <div className="rankingCard">
+        <ol>
+          {data.map((item) => (
+            <li key={item.id}>
+              {item.player}
+            </li>
+          ))}
+        </ol>
+        <ol>
+          {data.map((item) => (
+            <li key={item.id}>
+                {item.score}
+            </li>
+          ))}
+        </ol>
+      </div>
     </div>
   );
 }

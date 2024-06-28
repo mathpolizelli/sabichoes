@@ -9,6 +9,7 @@ import correctSound from "../sounds/correct-sound.mp3";
 import wrongSound from "../sounds/wrong-sound.mp3";
 
 function Game() {
+  const n = 25;
   const [playerName, setPlayerName] = useState("");
   const [inputValue, setInputValue] = useState();
   const [lives, setLives] = useState(3);
@@ -28,6 +29,7 @@ function Game() {
   });
   const [lastQuestion, setLastQuestion] = useState(1);
   const [currentQuestion, setCurrentQuestion] = useState(1);
+  const [questionLeft, setQuestionsLeft] = useState(n);
 
   const [defaultButtonStyles, setDefaultButtonStyles] = useState({
     backgroundColor: "#eaeaea",
@@ -55,18 +57,18 @@ function Game() {
   //#650a0e
   const [correctAudio] = useState(new Audio(correctSound));
   const [wrongAudio] = useState(new Audio(wrongSound));
-  const n = 50;
   const navigate = useNavigate();
 
   useEffect(() => {
     setQuestions(questionsjson);
-
     let list = [];
     for (let i = 1; i <= n; i++) {
       list.push(i);
     }
     setAvailable(list);
   }, []);
+
+  console.log(questionLeft);
 
   useEffect(() => {
     setLastQuestion(available.pop());
@@ -108,6 +110,7 @@ function Game() {
         setScore(score + 100 * streak);
         setCurrentQuestion(currentQuestion + 1);
         setStreak(streak + 1);
+        setQuestionsLeft(questionLeft - 1);
         setButtonStyle1(defaultButtonStyles);
         setButtonStyle2(defaultButtonStyles);
         setButtonStyle3(defaultButtonStyles);
@@ -156,6 +159,7 @@ function Game() {
         setCurrentQuestion(currentQuestion + 1);
         setStreak(1);
         setLives(lives - 1);
+        setQuestionsLeft(questionLeft - 1);
         setButtonStyle1(defaultButtonStyles);
         setButtonStyle2(defaultButtonStyles);
         setButtonStyle3(defaultButtonStyles);
@@ -184,7 +188,6 @@ function Game() {
   const addData = async () => {
     try {
       const docRef = collection(db, "scores");
-      console.log(playerName, score);
       await addDoc(docRef, {
         player: playerName,
         score: score,
@@ -206,12 +209,6 @@ function Game() {
   const navigateToHome = () => {
     setTimeout(() => {
       navigate("/sabichoes");
-    }, 100);
-  };
-
-  const navigateToGame = () => {
-    setTimeout(() => {
-      navigate("/sabichoes/game");
     }, 100);
   };
 
@@ -238,7 +235,7 @@ function Game() {
     );
   }
 
-  if (lives == 0) {
+  if (lives == 0 || questionLeft == 0) {
     if (gameOver == 0) {
       addData();
       setGameOver(1);
