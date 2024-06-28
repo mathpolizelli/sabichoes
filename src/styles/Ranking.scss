@@ -1,0 +1,16 @@
+.ranking {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    h2 {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+}

@@ -1,3 +1,18 @@
+.nameForm{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  input {
+    width: 400px;
+    height: 60px;
+    font-size: 22px;
+    padding-left: 10px;
+  }
+}
+
 .questionCard {
   display: flex;
   flex-direction: column;
@@ -17,9 +32,12 @@
     justify-content: center;
 
     .answerButton {
-      width: 300px;
-      height: 60px;
-      font-size: 20px;
+      
+    }
+    
+    .answerButton:active {
+      transform: translate(0, 3px);
+      box-shadow: 0px 3px 1px #7e7e7e;
     }
   }
 }

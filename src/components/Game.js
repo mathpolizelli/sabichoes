@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 import { db } from "../firebase";
 import "../styles/Game.scss";
 import questionsjson from "../questions.json";
+import correctSound from "../sounds/correct-sound.mp3";
+import wrongSound from "../sounds/wrong-sound.mp3";
 
 function Game() {
   const [playerName, setPlayerName] = useState("");
@@ -26,7 +28,23 @@ function Game() {
   });
   const [lastQuestion, setLastQuestion] = useState(1);
   const [currentQuestion, setCurrentQuestion] = useState(1);
-  const n = 25;
+  const [defaultButtonStyles, setDefaultButtonStyles] = useState({
+    backgroundColor: "#eaeaea",
+    width: "300px",
+    height: "60px",
+    fontSize: "20px",
+    margin: "10px",
+    border: "none",
+    borderRadius: "10px",
+    boxShadow: "0px 5px 1px #7e7e7e",
+  });
+  const [buttonStyle1, setButtonStyle1] = useState(defaultButtonStyles);
+  const [buttonStyle2, setButtonStyle2] = useState(defaultButtonStyles);
+  const [buttonStyle3, setButtonStyle3] = useState(defaultButtonStyles);
+  const [buttonStyle4, setButtonStyle4] = useState(defaultButtonStyles);
+  const [correctAudio] = useState(new Audio(correctSound));
+  const [wrongAudio] = useState(new Audio(wrongSound));
+  const n = 50;
 
   useEffect(() => {
     setQuestions(questionsjson);
@@ -42,27 +60,83 @@ function Game() {
     setLastQuestion(available.pop());
   }, [available, streak, currentQuestion]);
 
-  useEffect(() => {
-    console.log("GAME OVER");
-  }, [gameOver]);
-
   const isAnswerRight = (answer, questionNum) => {
     if (
       document.getElementById(answer).innerText ==
       questions[questionNum].correctanswer
     ) {
-      console.log("true");
+      correctAudio.play();
+      switch (answer) {
+        case "answer1":
+          setButtonStyle1({
+            ...defaultButtonStyles,
+            backgroundColor: "#20c868",
+          });
+          break;
+        case "answer2":
+          setButtonStyle2({
+            ...defaultButtonStyles,
+            backgroundColor: "#20c868",
+          });
+          break;
+        case "answer3":
+          setButtonStyle3({
+            ...defaultButtonStyles,
+            backgroundColor: "#20c868",
+          });
+          break;
+        case "answer4":
+          setButtonStyle4({
+            ...defaultButtonStyles,
+            backgroundColor: "#20c868",
+          });
+          break;
+      }
       setTimeout(() => {
         setScore(score + 100 * streak);
         setCurrentQuestion(currentQuestion + 1);
         setStreak(streak + 1);
+        setButtonStyle1(defaultButtonStyles);
+        setButtonStyle2(defaultButtonStyles);
+        setButtonStyle3(defaultButtonStyles);
+        setButtonStyle4(defaultButtonStyles);
       }, 1000);
     } else {
-      console.log("false");
+      wrongAudio.play();
+      switch (answer) {
+        case "answer1":
+          setButtonStyle1({
+            ...defaultButtonStyles,
+            backgroundColor: "#f32732",
+          });
+          break;
+        case "answer2":
+          setButtonStyle2({
+            ...defaultButtonStyles,
+            backgroundColor: "#f32732",
+          });
+          break;
+        case "answer3":
+          setButtonStyle3({
+            ...defaultButtonStyles,
+            backgroundColor: "#f32732",
+          });
+          break;
+        case "answer4":
+          setButtonStyle4({
+            ...defaultButtonStyles,
+            backgroundColor: "#f32732",
+          });
+          break;
+      }
       setTimeout(() => {
         setCurrentQuestion(currentQuestion + 1);
         setStreak(1);
         setLives(lives - 1);
+        setButtonStyle1(defaultButtonStyles);
+        setButtonStyle2(defaultButtonStyles);
+        setButtonStyle3(defaultButtonStyles);
+        setButtonStyle4(defaultButtonStyles);
       }, 1000);
     }
   };
@@ -106,15 +180,18 @@ function Game() {
     setPlayerName(inputValue);
   };
 
+  // RENDER
+
   if (playerName == "") {
     return (
-      <form onSubmit={handleSubmit}>
+      <form className="nameForm" onSubmit={handleSubmit}>
         <p>QUAL É O SEU NOME?</p>
-        <input 
-          type="text" 
-          value={inputValue} 
-          onChange={handleChange}>
-        </input>
+        <input
+          type="text"
+          value={inputValue}
+          onChange={handleChange}
+          maxLength="25"
+        ></input>
       </form>
     );
   }
@@ -132,13 +209,17 @@ function Game() {
           {playerName} fez {score} pontos!
         </h1>
         <button>
-          <Link to="/gamificacao">HOME</Link>
+          <Link to="/sabichoes">HOME</Link>
+        </button>
+        <button
+          onClick={() => {
+            window.location.reload();
+          }}
+        >
+          <Link to="/sabichoes/game">GAME</Link>
         </button>
         <button>
-          <Link to="/gamificacao/game">GAME</Link>
-        </button>
-        <button>
-          <Link to="/gamificacao/ranking">RANKING</Link>
+          <Link to="/sabichoes/ranking">RANKING</Link>
         </button>
       </div>
     );
@@ -157,6 +238,7 @@ function Game() {
           <button
             className="answerButton"
             id="answer1"
+            style={buttonStyle1}
             onClick={() => isAnswerRight("answer1", lastQuestion)}
           >
             {questions[lastQuestion].answer1}
@@ -164,6 +246,7 @@ function Game() {
           <button
             className="answerButton"
             id="answer2"
+            style={buttonStyle2}
             onClick={() => isAnswerRight("answer2", lastQuestion)}
           >
             {questions[lastQuestion].answer2}
@@ -173,6 +256,7 @@ function Game() {
           <button
             className="answerButton"
             id="answer3"
+            style={buttonStyle3}
             onClick={() => isAnswerRight("answer3", lastQuestion)}
           >
             {questions[lastQuestion].answer3}
@@ -180,6 +264,7 @@ function Game() {
           <button
             className="answerButton"
             id="answer4"
+            style={buttonStyle4}
             onClick={() => isAnswerRight("answer4", lastQuestion)}
           >
             {questions[lastQuestion].answer4}

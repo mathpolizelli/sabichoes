@@ -9,29 +9,29 @@ import { db } from "./firebase";
 
 function App() {
   return (
-    <>
+    <div className="app">
       <Router>
         <div className="navbar">
           <h1>SABICHÕES</h1>
           <div className="links">
             <button className="link">
-              <Link to="/gamificacao">Home</Link>
+              <Link to="/sabichoes">Home</Link>
             </button>
             <button className="link">
-              <Link to="/gamificacao/game">Game</Link>
+              <Link to="/sabichoes/game">Jogar</Link>
             </button>
             <button className="link">
-              <Link to="/gamificacao/ranking">Ranking</Link>
+              <Link to="/sabichoes/ranking">Ranking</Link>
             </button>
           </div>
         </div>
         <Routes>
-          <Route element={<Home />} path="gamificacao" />
-          <Route element={<Game />} path="gamificacao/game" />
-          <Route element={<Ranking />} path="gamificacao/ranking" />
+          <Route element={<Home />} path="sabichoes" />
+          <Route element={<Game />} path="sabichoes/game" />
+          <Route element={<Ranking />} path="sabichoes/ranking" />
         </Routes>
       </Router>
-    </>
+    </div>
   );
 }
 
