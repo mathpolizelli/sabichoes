@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sabichoes/static/css/main.5f288e57.css",
-    "main.js": "/sabichoes/static/js/main.1b1f49bd.js",
+    "main.css": "/sabichoes/static/css/main.e7998ece.css",
+    "main.js": "/sabichoes/static/js/main.d4f7607e.js",
     "static/js/453.123664b1.chunk.js": "/sabichoes/static/js/453.123664b1.chunk.js",
     "static/media/transition.mp3": "/sabichoes/static/media/transition.66ab6366fd26c2f8016d.mp3",
     "static/media/game-over.mp3": "/sabichoes/static/media/game-over.4028ac4670816053f232.mp3",
     "static/media/wrong-sound.mp3": "/sabichoes/static/media/wrong-sound.c43ffa6dfba8814f921f.mp3",
     "static/media/correct-sound.mp3": "/sabichoes/static/media/correct-sound.70b3c3fd9bafef2fdae9.mp3",
     "index.html": "/sabichoes/index.html",
-    "main.5f288e57.css.map": "/sabichoes/static/css/main.5f288e57.css.map",
-    "main.1b1f49bd.js.map": "/sabichoes/static/js/main.1b1f49bd.js.map",
+    "main.e7998ece.css.map": "/sabichoes/static/css/main.e7998ece.css.map",
+    "main.d4f7607e.js.map": "/sabichoes/static/js/main.d4f7607e.js.map",
     "453.123664b1.chunk.js.map": "/sabichoes/static/js/453.123664b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f288e57.css",
-    "static/js/main.1b1f49bd.js"
+    "static/css/main.e7998ece.css",
+    "static/js/main.d4f7607e.js"
   ]
 }
