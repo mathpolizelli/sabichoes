@@ -35,7 +35,7 @@ function Navbar() {
         SABICHÕES
       </h1>
       <div className="links">
-        <button className="linkButton" onClick={navigateToHome}>
+        <button className="linkButton" onClick={navigateToHome} id="homeBtn">
           Home
         </button>
         <button className="linkButton" onClick={navigateToGame}>

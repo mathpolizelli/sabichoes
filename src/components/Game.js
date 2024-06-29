@@ -213,6 +213,13 @@ function Game() {
     }, 100);
   };
 
+  const navigateToGame = () => {
+    setTimeout(() => {
+      navigate("/sabichoes/game");
+    }, 100);
+  };
+
+
   const navigateToRanking = () => {
     setTimeout(() => {
       navigate("/sabichoes/ranking");
@@ -252,9 +259,7 @@ function Game() {
         <button
           className="linkButton"
           id="playAgain"
-          onClick={() => {
-            window.location.reload();
-          }}
+          onClick={navigateToGame}
         >
           Jogar novamente
         </button>
