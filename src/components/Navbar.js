@@ -24,7 +24,16 @@ function Navbar() {
 
   return (
     <div className="navbar">
-      <h1>SABICHÕES</h1>
+      <h1
+        onClick={navigateToHome}
+        style={{
+          fontFamily: "Holtwood One SC, Arial",
+          color: "white",
+          marginLeft: "10px",
+        }}
+      >
+        SABICHÕES
+      </h1>
       <div className="links">
         <button className="linkButton" onClick={navigateToHome}>
           Home

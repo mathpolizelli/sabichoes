@@ -145,3 +145,9 @@
     }
   }
 }
+
+@media (max-width: 420px) {
+  .linkButton:first-child {
+    display: none;
+  }
+}

@@ -223,5 +223,670 @@
         "answer4": "Produzir energia",
         "correctanswer": "Dar suporte e proteção",
         "subject": "Ciências"
+    },
+    "26": {
+        "question": "Qual é a principal fonte de energia para a Terra?",
+        "answer1": "Vento",
+        "answer2": "Sol",
+        "answer3": "Água",
+        "answer4": "Petróleo",
+        "correctanswer": "Sol",
+        "subject": "Ciências"
+    },
+    "27": {
+        "question": "Qual desses animais é um mamífero?",
+        "answer1": "Jacaré",
+        "answer2": "Tartaruga",
+        "answer3": "Golfinho",
+        "answer4": "Pato",
+        "correctanswer": "Golfinho",
+        "subject": "Ciências"
+    },
+    "28": {
+        "question": "Qual dos relevos é plano?",
+        "answer1": "Planalto",
+        "answer2": "Depressão",
+        "answer3": "Estepe",
+        "answer4": "Planície",
+        "correctanswer": "Planície",
+        "subject": "Geografia"
+    },
+    "29": {
+        "question": "Qual parte da planta é responsável pela fotossíntese?",
+        "answer1": "Raiz",
+        "answer2": "Caule",
+        "answer3": "Flor",
+        "answer4": "Folha",
+        "correctanswer": "Folha",
+        "subject": "Ciências"
+    },
+    "30": {
+        "question": "Qual é a função do sistema respiratório?",
+        "answer1": "Transportar nutrientes",
+        "answer2": "Eliminar resíduos",
+        "answer3": "Permitir a respiração",
+        "answer4": "Bombear sangue",
+        "correctanswer": "Permitir a respiração",
+        "subject": "Ciências"
+    },
+    "31": {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "answer1": "Vênus",
+        "answer2": "Terra",
+        "answer3": "Mercúrio",
+        "answer4": "Marte",
+        "correctanswer": "Mercúrio",
+        "subject": "Ciências"
+    },
+    "32": {
+        "question": "O que é um habitat?",
+        "answer1": "Um tipo de alimentação",
+        "answer2": "O lugar onde um organismo vive",
+        "answer3": "Um comportamento animal",
+        "answer4": "Um tipo de reprodução",
+        "correctanswer": "O lugar onde um organismo vive",
+        "subject": "Ciências"
+    },
+    "33": {
+        "question": "Qual é o maior continente do mundo?",
+        "answer1": "África",
+        "answer2": "América",
+        "answer3": "Ásia",
+        "answer4": "Europa",
+        "correctanswer": "Ásia",
+        "subject": "Geografia"
+    },
+    "34": {
+        "question": "Qual é o principal rio do Brasil?",
+        "answer1": "Rio Amazonas",
+        "answer2": "Rio São Francisco",
+        "answer3": "Rio Tietê",
+        "answer4": "Rio Paraná",
+        "correctanswer": "Rio Amazonas",
+        "subject": "Geografia"
+    },
+    "35": {
+        "question": "Qual destes é um país da América do Sul?",
+        "answer1": "China",
+        "answer2": "França",
+        "answer3": "Argentina",
+        "answer4": "Austrália",
+        "correctanswer": "Argentina",
+        "subject": "Geografia"
+    },
+    "36": {
+        "question": "Qual é a capital do Brasil?",
+        "answer1": "São Paulo",
+        "answer2": "Rio de Janeiro",
+        "answer3": "Brasília",
+        "answer4": "Salvador",
+        "correctanswer": "Brasília",
+        "subject": "Geografia"
+    },
+    "37": {
+        "question": "O que é uma ilha?",
+        "answer1": "Uma área de terra cercada por água por todos os lados",
+        "answer2": "Uma montanha muito alta",
+        "answer3": "Um rio muito longo",
+        "answer4": "Um deserto muito grande",
+        "correctanswer": "Uma área de terra cercada por água por todos os lados",
+        "subject": "Geografia"
+    },
+    
+      "38": {
+        "question": "O que é um mapa?",
+        "answer1": "Um instrumento para medir o tempo",
+        "answer2": "Um gráfico de barras",
+        "answer3": "Uma representação gráfica de uma área",
+        "answer4": "Um tipo de planta",
+        "correctanswer": "Uma representação gráfica de uma área",
+        "subject": "Geografia"
+    },
+    "39": {
+        "question": "Quem foi o líder do movimento que lutou pela abolição da escravatura no Brasil?",
+        "answer1": "Zumbi dos Palmares",
+        "answer2": "Tiradentes",
+        "answer3": "Pedro II",
+        "answer4": "Dom Pedro I",
+        "correctanswer": "Zumbi dos Palmares",
+        "subject": "História"
+    },
+    "40": {
+        "question": "O que foi a 'Inconfidência Mineira'?",
+        "answer1": "Uma revolta pela independência do Brasil",
+        "answer2": "Um movimento pela abolição da escravatura",
+        "answer3": "Uma revolta contra os impostos coloniais",
+        "answer4": "Uma guerra entre estados brasileiros",
+        "correctanswer": "Uma revolta contra os impostos coloniais",
+        "subject": "História"
+    },
+    "41": {
+        "question": "Qual foi o tratado que dividiu as terras entre Portugal e Espanha no período das Grandes Navegações?",
+        "answer1": "Tratado de Paris",
+        "answer2": "Tratado de Madri",
+        "answer3": "Tratado de Tordesilhas",
+        "answer4": "Tratado de Lisboa",
+        "correctanswer": "Tratado de Tordesilhas",
+        "subject": "História"
+    },
+    "42": {
+        "question": "Quem foi Tiradentes?",
+        "answer1": "Um explorador português",
+        "answer2": "Um líder indígena",
+        "answer3": "Um dos líderes da Inconfidência Mineira",
+        "answer4": "Um presidente do Brasil",
+        "correctanswer": "Um dos líderes da Inconfidência Mineira",
+        "subject": "História"
+    },
+    "43": {
+        "question": "Qual é o resultado de 2/3 + 1/3?",
+        "answer1": "1",
+        "answer2": "2/3",
+        "answer3": "1/2",
+        "answer4": "4/3",
+        "correctanswer": "1",
+        "subject": "Matemática"
+    },
+    "44": {
+        "question": "Quanto é 12 x 12?",
+        "answer1": "144",
+        "answer2": "121",
+        "answer3": "132",
+        "answer4": "156",
+        "correctanswer": "144",
+        "subject": "Matemática"
+    },
+    "45": {
+        "question": "Qual é a área de um triângulo com base de 10 cm e altura de 5 cm?",
+        "answer1": "50 cm²",
+        "answer2": "30 cm²",
+        "answer3": "25 cm²",
+        "answer4": "40 cm²",
+        "correctanswer": "25 cm²",
+        "subject": "Matemática"
+    },
+    "46": {
+        "question": "Qual é o valor de 5²?",
+        "answer1": "15",
+        "answer2": "25",
+        "answer3": "20",
+        "answer4": "10",
+        "correctanswer": "25",
+        "subject": "Matemática"
+    },
+    "47": {
+        "question": "Quanto é 45 ÷ 9?",
+        "answer1": "4",
+        "answer2": "5",
+        "answer3": "6",
+        "answer4": "7",
+        "correctanswer": "5",
+        "subject": "Matemática"
+    },
+    "48": {
+        "question": "Qual é o sujeito da frase: 'Os alunos estudam para a prova'?",
+        "answer1": "Estudam",
+        "answer2": "Para a prova",
+        "answer3": "Os alunos",
+        "answer4": "Prova",
+        "correctanswer": "Os alunos",
+        "subject": "Língua Portuguesa"
+    },
+    "49": {
+        "question": "Qual é o tipo de predicado na frase: 'O cachorro está doente'?",
+        "answer1": "Predicado verbal",
+        "answer2": "Predicado nominal",
+        "answer3": "Predicado verbo-nominal",
+        "answer4": "Predicado objetivo",
+        "correctanswer": "Predicado nominal",
+        "subject": "Língua Portuguesa"
+    },
+    "50": {
+        "question": "Qual é a função do advérbio na frase: 'Ele correu rapidamente para casa'?",
+        "answer1": "Indicar lugar",
+        "answer2": "Indicar modo",
+        "answer3": "Indicar tempo",
+        "answer4": "Indicar quantidade",
+        "correctanswer": "Indicar modo",
+        "subject": "Língua Portuguesa"
+    },
+    "51": {
+        "question": "Qual é a figura de linguagem presente na frase: 'Ela chorou rios de lágrimas'?",
+        "answer1": "Metáfora",
+        "answer2": "Metonímia",
+        "answer3": "Hipérbole",
+        "answer4": "Antítese",
+        "correctanswer": "Hipérbole",
+        "subject": "Língua Portuguesa"
+    },
+    "52": {
+        "question": "Qual é a forma verbal correta na frase: 'Se ele _ mais cedo, teria chegado a tempo'?",
+        "answer1": "chegasse",
+        "answer2": "chegou",
+        "answer3": "chegará",
+        "answer4": "chegando",
+        "correctanswer": "chegasse",
+        "subject": "Língua Portuguesa"
+    },
+    "53": {
+        "question": "Qual é a função sintática do termo 'com o livro' na frase: 'Ele estava com o livro'? ",
+        "answer1": "Sujeito",
+        "answer2": "Complemento direto",
+        "answer3": "Adjunto adnominal",
+        "answer4": "Complemento circunstancial",
+        "correctanswer": "Complemento circunstancial",
+        "subject": "Língua Portuguesa"
+    },
+    "54": {
+        "question": "Qual é o antônimo da palavra 'triste'?",
+        "answer1": "Feliz",
+        "answer2": "Amargo",
+        "answer3": "Alegre",
+        "answer4": "Melancólico",
+        "correctanswer": "Alegre",
+        "subject": "Língua Portuguesa"
+    },
+    "55": {
+        "question": "Qual é o passado do verbo 'to go'?",
+        "answer1": "Goed",
+        "answer2": "Goes",
+        "answer3": "Went",
+        "answer4": "Gone",
+        "correctanswer": "Went",
+        "subject": "Língua Inglesa"
+    },
+    "56": {
+        "question": "Qual palavra é sinônimo de 'happy'?",
+        "answer1": "Angry",
+        "answer2": "Bored",
+        "answer3": "Joyful",
+        "answer4": "Sad",
+        "correctanswer": "Joyful",
+        "subject": "Língua Inglesa"
+    },
+    "57": {
+        "question": "Como se diz 'livro' em inglês?",
+        "answer1": "Notebook",
+        "answer2": "Pen",
+        "answer3": "Pencil",
+        "answer4": "Book",
+        "correctanswer": "Book",
+        "subject": "Língua Inglesa"
+    },
+    "58": {
+        "question": "Qual é a forma plural de 'child'?",
+        "answer1": "Childs",
+        "answer2": "Childes",
+        "answer3": "Children",
+        "answer4": "Childrens",
+        "correctanswer": "Children",
+        "subject": "Língua Inglesa"
+    },
+    "59": {
+        "question": "Qual é a tradução correta de 'Ele está comendo uma maçã'?",
+        "answer1": "He is eat an apple",
+        "answer2": "He eats an apple",
+        "answer3": "He is eating an apple",
+        "answer4": "He are eating an apple",
+        "correctanswer": "He is eating an apple",
+        "subject": "Língua Inglesa"
+    },
+    "60": {
+        "question": "Qual é o oposto de 'hot'?",
+        "answer1": "Warm",
+        "answer2": "Freezing",
+        "answer3": "Cold",
+        "answer4": "Cool",
+        "correctanswer": "Cold",
+        "subject": "Língua Inglesa"
+    },
+    "61": {
+        "question": "Escolha a frase correta.",
+        "answer1": "She don't like pizza.",
+        "answer2": "She doesn't likes pizza.",
+        "answer3": "She doesn't like pizza.",
+        "answer4": "She don't likes pizza.",
+        "correctanswer": "She doesn't like pizza.",
+        "subject": "Língua Inglesa"
+    },
+    "62": {
+        "question": "Qual é a capital do Japão?",
+        "answer1": "Osaka",
+        "answer2": "Tóquio",
+        "answer3": "Kyoto",
+        "answer4": "Seul",
+        "correctanswer": "Tóquio",
+        "subject": "Geografia"
+    },
+    "63": {
+        "question": "Qual é o maior rio da América do Sul?",
+        "answer1": "Rio Paraná",
+        "answer2": "Rio Amazonas",
+        "answer3": "Rio Paraguai",
+        "answer4": "Rio Uruguai",
+        "correctanswer": "Rio Amazonas",
+        "subject": "Geografia"
+    },
+    "64": {
+        "question": "Qual é o país com maior extensão territorial do mundo?",
+        "answer1": "Canadá",
+        "answer2": "Rússia",
+        "answer3": "China",
+        "answer4": "Estados Unidos",
+        "correctanswer": "Rússia",
+        "subject": "Geografia"
+    },
+    "65": {
+        "question": "Qual é o nome do deserto mais árido do mundo?",
+        "answer1": "Deserto do Saara",
+        "answer2": "Deserto de Gobi",
+        "answer3": "Deserto de Atacama",
+        "answer4": "Deserto do Saara",
+        "correctanswer": "Deserto de Atacama",
+        "subject": "Geografia"
+    },
+    "66": {
+        "question": "Qual foi o principal movimento cultural e artístico do Renascimento?",
+        "answer1": "Barroco",
+        "answer2": "Realismo",
+        "answer3": "Renascimento Carolíngio",
+        "answer4": "Humanismo",
+        "correctanswer": "Humanismo",
+        "subject": "História"
+    },
+    "67": {
+        "question": "O que foi o Iluminismo?",
+        "answer1": "Um movimento cultural na Idade Média",
+        "answer2": "Uma revolta camponesa na Europa",
+        "answer3": "Um movimento filosófico e cultural no século XVIII",
+        "answer4": "Um período de expansão territorial",
+        "correctanswer": "Um movimento filosófico e cultural no século XVIII",
+        "subject": "História"
+    },
+    "68": {
+        "question": "Quem foi Karl Marx?",
+        "answer1": "Um filósofo grego",
+        "answer2": "Um líder político romano",
+        "answer3": "Um pensador socialista do século XIX",
+        "answer4": "Um explorador português",
+        "correctanswer": "Um pensador socialista do século XIX",
+        "subject": "História"
+    },
+    "69": {
+        "question": "Qual foi o resultado da Revolução Francesa?",
+        "answer1": "A volta do absolutismo na França",
+        "answer2": "A independência da França",
+        "answer3": "A proclamação da República Francesa",
+        "answer4": "A instauração de uma monarquia absolutista",
+        "correctanswer": "A proclamação da República Francesa",
+        "subject": "História"
+    },
+    "70": {
+        "question": "Quem liderou o movimento pela independência da Índia?",
+        "answer1": "Nelson Mandela",
+        "answer2": "Mahatma Gandhi",
+        "answer3": "Napoleão Bonaparte",
+        "answer4": "Che Guevara",
+        "correctanswer": "Mahatma Gandhi",
+        "subject": "História"
+    },
+    "71": {
+        "question": "Onde ocorreu a Revolução Industrial?",
+        "answer1": "Alemanha",
+        "answer2": "China",
+        "answer3": "Inglaterra",
+        "answer4": "Rússia",
+        "correctanswer": "Inglaterra",
+        "subject": "História"
+    },
+    "72": {
+        "question": "Qual é o resultado de 24 + 36?",
+        "answer1": "50",
+        "answer2": "60",
+        "answer3": "70",
+        "answer4": "80",
+        "correctanswer": "60",
+        "subject": "Matemática"
+    },
+    "73": {
+        "question": "Quanto é 5 × 8?",
+        "answer1": "35",
+        "answer2": "40",
+        "answer3": "45",
+        "answer4": "50",
+        "correctanswer": "40",
+        "subject": "Matemática"
+    },
+    "74": {
+        "question": "Qual é o resultado de 3/4 + 1/4?",
+        "answer1": "1/2",
+        "answer2": "5/4",
+        "answer3": "1",
+        "answer4": "7/4",
+        "correctanswer": "1",
+        "subject": "Matemática"
+    },
+    "75": {
+        "question": "Qual é a área de um retângulo com base 8 cm e altura 5 cm?",
+        "answer1": "35 cm²",
+        "answer2": "40 cm²",
+        "answer3": "45 cm²",
+        "answer4": "50 cm²",
+        "correctanswer": "40 cm²",
+        "subject": "Matemática"
+    },
+    "76": {
+        "question": "Quanto é 7²?",
+        "answer1": "49",
+        "answer2": "50",
+        "answer3": "51",
+        "answer4": "52",
+        "correctanswer": "49",
+        "subject": "Matemática"
+    },
+    "77": {
+        "question": "Qual é o valor de x na equação 2x + 5 = 15?",
+        "answer1": "5",
+        "answer2": "7",
+        "answer3": "8",
+        "answer4": "10",
+        "correctanswer": "5",
+        "subject": "Matemática"
+    },
+    "78": {
+        "question": "Qual é a fração equivalente a 0.75?",
+        "answer1": "1/3",
+        "answer2": "3/4",
+        "answer3": "2/3",
+        "answer4": "4/5",
+        "correctanswer": "3/4",
+        "subject": "Matemática"
+    },
+    "79": {
+        "question": "Quanto é 144 ÷ 12?",
+        "answer1": "10",
+        "answer2": "11",
+        "answer3": "12",
+        "answer4": "13",
+        "correctanswer": "12",
+        "subject": "Matemática"
+    },
+    "80": {
+        "question": "Qual é a raiz quadrada de 144?",
+        "answer1": "10",
+        "answer2": "12",
+        "answer3": "14",
+        "answer4": "16",
+        "correctanswer": "12",
+        "subject": "Matemática"
+    },
+    "81": {
+        "question": "Quanto é 3/5 × 25?",
+        "answer1": "12",
+        "answer2": "13",
+        "answer3": "14",
+        "answer4": "15",
+        "correctanswer": "15",
+        "subject": "Matemática"
+    },
+    "82": {
+        "question": "Qual é a função principal do coração no corpo humano?",
+        "answer1": "Digestão",
+        "answer2": "Respiração",
+        "answer3": "Circulação",
+        "answer4": "Excreção",
+        "correctanswer": "Circulação"
+    },
+    "83": {
+        "question": "Qual gás os humanos exalam?",
+        "answer1": "Oxigênio",
+        "answer2": "Dióxido de carbono",
+        "answer3": "Nitrogênio",
+        "answer4": "Hidrogênio",
+        "correctanswer": "Dióxido de carbono"
+    },
+    "84": {
+        "question": "Quem pintou a Mona Lisa?",
+        "answer1": "Vincent van Gogh",
+        "answer2": "Leonardo da Vinci",
+        "answer3": "Pablo Picasso",
+        "answer4": "Michelangelo",
+        "correctanswer": "Leonardo da Vinci"
+    },
+    "85": {
+        "question": "Qual artista é conhecido por seus relógios derretendo?",
+        "answer1": "Vincent van Gogh",
+        "answer2": "Salvador Dalí",
+        "answer3": "Claude Monet",
+        "answer4": "Andy Warhol",
+        "correctanswer": "Salvador Dalí"
+    },
+    "86": {
+        "question": "Qual é a técnica de criar imagens com pequenos pedaços de vidro ou pedra colorida?",
+        "answer1": "Escultura",
+        "answer2": "Mosaico",
+        "answer3": "barroquismo",
+        "answer4": "Ceramica",
+        "correctanswer": "Mosaico"
+    },
+    "87": {
+        "question": "Quem esculpiu a estátua de Davi?",
+        "answer1": "Michelangelo",
+        "answer2": "Pablo Picasso",
+        "answer3": "Claude Monet",
+        "answer4": "Vincent van Gogh",
+        "correctanswer": "Michelangelo"
+    },
+    "88": {
+        "question": "Qual estilo artístico é caracterizado por movimento exagerado e detalhes claros?",
+        "answer1": "Impressionismo",
+        "answer2": "Cubismo",
+        "answer3": "Realismo",
+        "answer4": "Barroco",
+        "correctanswer": "Barroco"
+    },
+    "89": {
+        "question": "Quem pintou 'Noite Estrelada'?",
+        "answer1": "Leonardo da Vinci",
+        "answer2": "Vincent van Gogh",
+        "answer3": "Salvador Dalí",
+        "answer4": "Pablo Picasso",
+        "correctanswer": "Vincent van Gogh"
+    },
+    "90": {
+        "question": "Calcule: 24 ÷ 6.",
+        "answer1": "4",
+        "answer2": "5",
+        "answer3": "6",
+        "answer4": "8",
+        "correctanswer": "4"
+    },
+    "91": {
+        "question": "Se uma pizza é dividida em 8 fatias iguais, quantas fatias cada pessoa recebe se 3 pessoas compartilham a pizza igualmente?",
+        "answer1": "2",
+        "answer2": "3",
+        "answer3": "4",
+        "answer4": "5",
+        "correctanswer": "2"
+        },
+    "92": {
+        "question": "Se uma loja vendeu 36 chocolates em um dia e cada caixa contém 12 chocolates, quantas caixas foram vendidas?",
+        "answer1": "2",
+        "answer2": "3",
+        "answer3": "4",
+        "answer4": "6",
+        "correctanswer": "3"
+    },
+    "93": {
+        "question": "Qual foi o evento que marcou o fim da Idade Média na Europa?",
+        "answer1": "Revolução Industrial",
+        "answer2": "Renascimento Cultural",
+        "answer3": "Descobrimento da América",
+        "answer4": "Queda de Constantinopla",
+        "correctanswer": "Queda de Constantinopla"
+    },
+    "94": {
+        "question": "Qual foi a principal consequência da Guerra Fria?",
+        "answer1": "Unificação das Alemanhas",
+        "answer2": "Independência das colônias africanas",
+        "answer3": "Revolução Cubana",
+        "answer4": "Divisão do mundo em blocos capitalista e socialista",
+        "correctanswer": "Divisão do mundo em blocos capitalista e socialista"
+    },
+    "95": {
+        "question": "Qual é o artigo definido feminino singular?",
+        "answer1": "O",
+        "answer2": "Os",
+        "answer3": "A",
+        "answer4": "As",
+        "correctanswer": "A"
+    },
+    "96": {
+        "question": "Identifique o pronome pessoal oblíquo átono da terceira pessoa do singular:",
+        "answer1": "Eu",
+        "answer2": "Tu",
+        "answer3": "Ele",
+        "answer4": "Nós",
+        "correctanswer": "Ele"
+    },
+    "97": {
+        "question": "Complete a frase com o artigo indefinido plural adequado: 'Vi _ meninos brincando no parque.'",
+        "answer1": "o",
+        "answer2": "um",
+        "answer3": "os",
+        "answer4": "uns",
+        "correctanswer": "uns"
+    },
+    "98": {
+        "question": "Qual é o pronome demonstrativo de distância média?",
+        "answer1": "Este",
+        "answer2": "Esse",
+        "answer3": "Aquele",
+        "answer4": "Isto",
+        "correctanswer": "Esse"
+    },
+    "99": {
+        "question": "Complete a frase com o pronome possessivo adequado: '_ livro é meu.'",
+        "answer1": "Meu",
+        "answer2": "Teu",
+        "answer3": "Seu",
+        "answer4": "Nosso",
+        "correctanswer": "Meu"
+    },
+    "100": {
+        "question": "Qual é o artigo definido masculino plural?",
+        "answer1": "O",
+        "answer2": "Os",
+        "answer3": "A",
+        "answer4": "As",
+        "correctanswer": "Os"
+    },
+    "101": {
+        "question": "Identifique o pronome pessoal do caso reto da primeira pessoa do singular:",
+        "answer1": "Eu",
+        "answer2": "Tu",
+        "answer3": "Ele",
+        "answer4": "Nós",
+        "correctanswer": "Eu"
     }
 }

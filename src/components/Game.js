@@ -7,9 +7,11 @@ import "../styles/Game.scss";
 import questionsjson from "../questions.json";
 import correctSound from "../sounds/correct-sound.mp3";
 import wrongSound from "../sounds/wrong-sound.mp3";
+import transition from "../sounds/transition.mp3";
+import gameOverSound from "../sounds/game-over.mp3";
 
 function Game() {
-  const n = 25;
+  const n = 101;
   const [playerName, setPlayerName] = useState("");
   const [inputValue, setInputValue] = useState();
   const [lives, setLives] = useState(3);
@@ -54,9 +56,10 @@ function Game() {
   const [heartStyle3, setHeartStyle3] = useState({
     "--c": "#f32732",
   });
-  //#650a0e
   const [correctAudio] = useState(new Audio(correctSound));
   const [wrongAudio] = useState(new Audio(wrongSound));
+  const [transitionAudio] = useState(new Audio(transition));
+  const [gameOverAudio] = useState(new Audio(gameOverSound));
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -67,8 +70,6 @@ function Game() {
     }
     setAvailable(list);
   }, []);
-
-  console.log(questionLeft);
 
   useEffect(() => {
     setLastQuestion(available.pop());
@@ -115,7 +116,7 @@ function Game() {
         setButtonStyle2(defaultButtonStyles);
         setButtonStyle3(defaultButtonStyles);
         setButtonStyle4(defaultButtonStyles);
-      }, 1000);
+      }, 1200);
     } else {
       wrongAudio.play();
       switch (answer) {
@@ -164,7 +165,7 @@ function Game() {
         setButtonStyle2(defaultButtonStyles);
         setButtonStyle3(defaultButtonStyles);
         setButtonStyle4(defaultButtonStyles);
-      }, 1000);
+      }, 1200);
     }
   };
 
@@ -239,6 +240,7 @@ function Game() {
     if (gameOver == 0) {
       addData();
       setGameOver(1);
+      gameOverAudio.play()
     }
 
     return (
@@ -279,7 +281,11 @@ function Game() {
             <div className="heart" id="h2" style={heartStyle2}></div>
           </div>
         </div>
-        <h2>
+        <h2
+          onLoad={setTimeout(() => {
+            transitionAudio.play();
+          }, 100)}
+        >
           {currentQuestion}. {questions[lastQuestion].question}
         </h2>
         <div className="answerRow">
