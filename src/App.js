@@ -1,12 +1,10 @@
-import { useState, useEffect } from "react";
-import { Routes, Route, Link, BrowserRouter as Router } from "react-router-dom";
+import { Routes, Route, HashRouter as Router } from "react-router-dom";
 import "./styles/App.scss";
 
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Game from "./components/Game";
 import Ranking from "./components/Ranking";
-import { db } from "./firebase";
 
 function App() {  
   return (

@@ -1,5 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import "../styles/App.scss";
+import { useEffect } from "react";
 
 function Navbar() {
   const navigate = useNavigate();
@@ -21,6 +22,10 @@ function Navbar() {
       navigate("/sabichoes/ranking");
     }, 100);
   };
+
+  useEffect(() => {
+    navigate("/sabichoes")
+  }, [])
 
   return (
     <div className="navbar">

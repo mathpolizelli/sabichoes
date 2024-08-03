@@ -479,7 +479,7 @@
     },
     "54": {
         "question": "Qual é o antônimo da palavra 'triste'?",
-        "answer1": "Feliz",
+        "answer1": "Chateado",
         "answer2": "Amargo",
         "answer3": "Alegre",
         "answer4": "Melancólico",
@@ -577,12 +577,12 @@
         "subject": "Geografia"
     },
     "65": {
-        "question": "Qual é o nome do deserto mais árido do mundo?",
-        "answer1": "Deserto do Saara",
+        "question": "Qual é o maior deserto quente do mundo?",
+        "answer1": "Deserto de Kalahari",
         "answer2": "Deserto de Gobi",
         "answer3": "Deserto de Atacama",
         "answer4": "Deserto do Saara",
-        "correctanswer": "Deserto de Atacama",
+        "correctanswer": "Deserto do Saara",
         "subject": "Geografia"
     },
     "66": {
@@ -669,10 +669,10 @@
     "75": {
         "question": "Qual é a área de um retângulo com base 8 cm e altura 5 cm?",
         "answer1": "35 cm²",
-        "answer2": "40 cm²",
+        "answer2": "20 cm²",
         "answer3": "45 cm²",
         "answer4": "50 cm²",
-        "correctanswer": "40 cm²",
+        "correctanswer": "20 cm²",
         "subject": "Matemática"
     },
     "76": {
@@ -802,7 +802,7 @@
         "correctanswer": "4"
     },
     "91": {
-        "question": "Se uma pizza é dividida em 8 fatias iguais, quantas fatias cada pessoa recebe se 3 pessoas compartilham a pizza igualmente?",
+        "question": "Se uma pizza é dividida em 6 fatias iguais, quantas fatias cada pessoa recebe se 3 pessoas compartilham a pizza igualmente?",
         "answer1": "2",
         "answer2": "3",
         "answer3": "4",
