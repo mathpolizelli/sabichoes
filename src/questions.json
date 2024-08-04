@@ -1,892 +1,902 @@
 {
     "1": {
-        "question": "Qual é o sinônimo de 'feliz'?",
-        "answer1": "Triste",
-        "answer2": "Contente",
-        "answer3": "Bravo",
-        "answer4": "Cansado",
-        "correctanswer": "Contente",
-        "subject": "Português"
+        "question": "Leia a frase abaixo e identifique o verbo: 'Ana corre no parque todos os dias.'",
+        "answer1": "Ana",
+        "answer2": "parque",
+        "answer3": "corre",
+        "answer4": "dias",
+        "correctanswer": "corre",
+        "subject": "portugues"
     },
     "2": {
-        "question": "Qual palavra está escrita corretamente?",
-        "answer1": "Chuveu",
-        "answer2": "Choveu",
-        "answer3": "Chovêu",
-        "answer4": "Chuvêu",
-        "correctanswer": "Choveu",
-        "subject": "Português"
+        "question": "Complete a frase com o verbo correto: 'Os pássaros ___ no céu.'",
+        "answer1": "cantam",
+        "answer2": "corre",
+        "answer3": "pula",
+        "answer4": "dormem",
+        "correctanswer": "cantam",
+        "subject": "portugues"
     },
     "3": {
-        "question": "Qual das palavras abaixo é um substantivo?",
-        "answer1": "Correr",
-        "answer2": "Lentamente",
-        "answer3": "Amizade",
-        "answer4": "Rápido",
-        "correctanswer": "Amizade",
-        "subject": "Português"
+        "question": "Escolha a opção correta para completar a frase: '__ você não veio à escola ontem?'",
+        "answer1": "Porque",
+        "answer2": "Por que",
+        "answer3": "Por quê",
+        "answer4": "Porquê",
+        "correctanswer": "Por que",
+        "subject": "portugues"
     },
     "4": {
-        "question": "Qual é o antônimo de 'alto'?",
-        "answer1": "Grande",
-        "answer2": "Pequeno",
-        "answer3": "Baixo",
-        "answer4": "Longe",
-        "correctanswer": "Baixo",
-        "subject": "Português"
+        "question": "Marque a opção que justifica o uso da palavra 'porque' na frase: 'Ele saiu cedo porque tinha compromisso.'",
+        "answer1": "Pergunta direta",
+        "answer2": "Explicação",
+        "answer3": "Início de pergunta",
+        "answer4": "Palavra final de frase",
+        "correctanswer": "Explicação",
+        "subject": "portugues"
     },
     "5": {
-        "question": "Qual das frases está no tempo futuro?",
-        "answer1": "Eu estudei ontem.",
-        "answer2": "Eu estudo hoje.",
-        "answer3": "Eu estudarei amanhã.",
-        "answer4": "Eu estudava sempre.",
-        "correctanswer": "Eu estudarei amanhã.",
-        "subject": "Português"
+        "question": "Qual é o verbo na frase 'Nós jogamos bola no parque'?",
+        "answer1": "nós",
+        "answer2": "jogamos",
+        "answer3": "bola",
+        "answer4": "parque",
+        "correctanswer": "jogamos",
+        "subject": "portugues"
     },
     "6": {
-        "question": "Quanto é 25 + 17?",
-        "answer1": "42",
-        "answer2": "41",
-        "answer3": "43",
-        "answer4": "40",
-        "correctanswer": "42",
-        "subject": "Matemática"
+        "question": "Identifique o sujeito na frase: 'O gato dorme na cadeira.'",
+        "answer1": "dorme na cadeira",
+        "answer2": "O gato",
+        "answer3": "cadeira",
+        "answer4": "na",
+        "correctanswer": "O gato",
+        "subject": "portugues"
     },
     "7": {
-        "question": "Qual é o resultado de 7 x 8?",
-        "answer1": "54",
-        "answer2": "56",
-        "answer3": "58",
-        "answer4": "60",
-        "correctanswer": "56",
-        "subject": "Matemática"
+        "question": "Separe o sujeito e o predicado na frase: 'As crianças brincam no parque.'",
+        "answer1": "Sujeito: As crianças | Predicado: brincam no parque",
+        "answer2": "Sujeito: no parque | Predicado: As crianças brincam",
+        "answer3": "Sujeito: brincam | Predicado: As crianças no parque",
+        "answer4": "Sujeito: As crianças brincam | Predicado: no parque",
+        "correctanswer": "Sujeito: As crianças | Predicado: brincam no parque",
+        "subject": "portugues"
     },
     "8": {
-        "question": "Se tenho 15 maçãs e dou 7, com quantas fico?",
-        "answer1": "6",
-        "answer2": "7",
-        "answer3": "8",
-        "answer4": "9",
-        "correctanswer": "8",
-        "subject": "Matemática"
+        "question": "Calcule a soma: 58 + 27 =",
+        "answer1": "75",
+        "answer2": "85",
+        "answer3": "95",
+        "answer4": "105",
+        "correctanswer": "85",
+        "subject": "matematica"
     },
     "9": {
-        "question": "Qual é a fração que representa metade de um todo?",
-        "answer1": "1/4",
-        "answer2": "1/2",
-        "answer3": "1/3",
-        "answer4": "2/3",
-        "correctanswer": "1/2",
-        "subject": "Matemática"
+        "question": "Subtraia os números a seguir: 92 - 47 =",
+        "answer1": "45",
+        "answer2": "35",
+        "answer3": "55",
+        "answer4": "65",
+        "correctanswer": "45",
+        "subject": "matematica"
     },
     "10": {
-        "question": "Qual número é maior?",
-        "answer1": "482",
-        "answer2": "248",
-        "answer3": "284",
-        "answer4": "428",
-        "correctanswer": "482",
-        "subject": "Matemática"
+        "question": "Divida o número: 36 ÷ 6 =",
+        "answer1": "5",
+        "answer2": "6",
+        "answer3": "7",
+        "answer4": "8",
+        "correctanswer": "6",
+        "subject": "matematica"
     },
     "11": {
-        "question": "Qual é a capital do Brasil?",
-        "answer1": "Rio de Janeiro",
-        "answer2": "São Paulo",
-        "answer3": "Brasília",
-        "answer4": "Salvador",
-        "correctanswer": "Brasília",
-        "subject": "Geografia"
+        "question": "Transforme o número decimal em fração: 0,5 é igual a:",
+        "answer1": "1/4",
+        "answer2": "1/2",
+        "answer3": "2/3",
+        "answer4": "3/4",
+        "correctanswer": "1/2",
+        "subject": "matematica"
     },
     "12": {
-        "question": "Em qual continente fica o Brasil?",
-        "answer1": "Europa",
-        "answer2": "África",
-        "answer3": "Ásia",
-        "answer4": "América",
-        "correctanswer": "América",
-        "subject": "Geografia"
+        "question": "Converta a fração para um número decimal: 3/10 é igual a:",
+        "answer1": "0,03",
+        "answer2": "0,3",
+        "answer3": "0,33",
+        "answer4": "0,333",
+        "correctanswer": "0,3",
+        "subject": "matematica"
     },
     "13": {
-        "question": "Qual é o maior oceano do mundo?",
-        "answer1": "Oceano Atlântico",
-        "answer2": "Oceano Índico",
-        "answer3": "Oceano Pacífico",
-        "answer4": "Oceano Ártico",
-        "correctanswer": "Oceano Pacífico",
-        "subject": "Geografia"
+        "question": "Ana comprou um caderno por R$2,50 e uma caneta por R$1,75. Quanto ela gastou no total?",
+        "answer1": "R$4,15",
+        "answer2": "R$4,25",
+        "answer3": "R$4,50",
+        "answer4": "R$5,00",
+        "correctanswer": "R$4,25",
+        "subject": "matematica"
     },
     "14": {
-        "question": "Qual é a maior floresta tropical do mundo?",
-        "answer1": "Floresta Amazônica",
-        "answer2": "Floresta Negra",
-        "answer3": "Floresta de Sherwood",
-        "answer4": "Floresta do Congo",
-        "correctanswer": "Floresta Amazônica",
-        "subject": "Geografia"
+        "question": "João tinha R$10,00. Ele comprou um chocolate por R$3,25. Quanto dinheiro João ainda tem?",
+        "answer1": "R$6,25",
+        "answer2": "R$6,50",
+        "answer3": "R$7,75",
+        "answer4": "R$8,75",
+        "correctanswer": "R$6,75",
+        "subject": "matematica"
     },
     "15": {
-        "question": "O que é uma bússola usada para determinar?",
-        "answer1": "Altitude",
-        "answer2": "Pressão",
-        "answer3": "Direção",
-        "answer4": "Temperatura",
-        "correctanswer": "Direção",
-        "subject": "Geografia"
+        "question": "Quantas regiões compõem o Brasil?",
+        "answer1": "3",
+        "answer2": "4",
+        "answer3": "5",
+        "answer4": "6",
+        "correctanswer": "5",
+        "subject": "geografia"
     },
     "16": {
-        "question": "Quem foi o primeiro presidente do Brasil?",
-        "answer1": "Getúlio Vargas",
-        "answer2": "Juscelino Kubitschek",
-        "answer3": "Deodoro da Fonseca",
-        "answer4": "Pedro Álvares Cabral",
-        "correctanswer": "Deodoro da Fonseca",
-        "subject": "História"
+        "question": "Qual é a maior região do Brasil em extensão territorial?",
+        "answer1": "Nordeste",
+        "answer2": "Norte",
+        "answer3": "Sudeste",
+        "answer4": "Sul",
+        "correctanswer": "Norte",
+        "subject": "geografia"
     },
     "17": {
-        "question": "Em que ano o Brasil foi descoberto pelos portugueses?",
+        "question": "Qual é a maior floresta tropical do mundo, localizada no Brasil?",
+        "answer1": "Floresta Amazônica",
+        "answer2": "Mata Atlântica",
+        "answer3": "Cerrado",
+        "answer4": "Pantanal",
+        "correctanswer": "Floresta Amazônica",
+        "subject": "geografia"
+    },
+    "18": {
+        "question": "Qual é o maior rio do Brasil e um dos mais extensos do mundo?",
+        "answer1": "Rio São Francisco",
+        "answer2": "Rio Paraná",
+        "answer3": "Rio Amazonas",
+        "answer4": "Rio Tietê",
+        "correctanswer": "Rio Amazonas",
+        "subject": "geografia"
+    },
+    "19": {
+        "question": "O relevo brasileiro é composto por várias formações. Qual é a mais comum?",
+        "answer1": "Planícies",
+        "answer2": "Montanhas",
+        "answer3": "Planaltos",
+        "answer4": "Vales",
+        "correctanswer": "Planaltos",
+        "subject": "geografia"
+    },
+    "20": {
+        "question": "Qual é o estado mais populoso da região Sudeste do Brasil?",
+        "answer1": "Rio de Janeiro",
+        "answer2": "Minas Gerais",
+        "answer3": "São Paulo",
+        "answer4": "Espírito Santo",
+        "correctanswer": "São Paulo",
+        "subject": "geografia"
+    },
+    "21": {
+        "question": "Qual cidade é conhecida como a capital financeira do Brasil?",
+        "answer1": "Rio de Janeiro",
+        "answer2": "Belo Horizonte",
+        "answer3": "Vitória",
+        "answer4": "São Paulo",
+        "correctanswer": "São Paulo",
+        "subject": "geografia"
+    },
+    "22": {
+        "question": "Qual é o famoso ponto turístico localizado no Rio de Janeiro?",
+        "answer1": "Cristo Redentor",
+        "answer2": "Elevador Lacerda",
+        "answer3": "Ponte Hercílio Luz",
+        "answer4": "Catedral de Brasília",
+        "correctanswer": "Cristo Redentor",
+        "subject": "geografia"
+    },
+    "23": {
+        "question": "Qual é a capital do estado do Paraná?",
+        "answer1": "Porto Alegre",
+        "answer2": "Curitiba",
+        "answer3": "Florianópolis",
+        "answer4": "Londrina",
+        "correctanswer": "Curitiba",
+        "subject": "geografia"
+    },
+    "24": {
+        "question": "A região Sul é conhecida pelo clima mais:",
+        "answer1": "Quente",
+        "answer2": "Árido",
+        "answer3": "Frio",
+        "answer4": "Úmido",
+        "correctanswer": "Frio",
+        "subject": "geografia"
+    },
+    "25": {
+        "question": "Qual estado da região Sul é famoso pela sua produção de vinhos?",
+        "answer1": "Paraná",
+        "answer2": "Santa Catarina",
+        "answer3": "Rio Grande do Sul",
+        "answer4": "Mato Grosso",
+        "correctanswer": "Rio Grande do Sul",
+        "subject": "geografia"
+    },
+    "26": {
+        "question": "Qual estado nordestino é conhecido por suas belas praias e o carnaval em Salvador?",
+        "answer1": "Ceará",
+        "answer2": "Pernambuco",
+        "answer3": "Bahia",
+        "answer4": "Maranhão",
+        "correctanswer": "Bahia",
+        "subject": "geografia"
+    },
+    "27": {
+        "question": "Qual é o principal rio da região Nordeste?",
+        "answer1": "Rio Amazonas",
+        "answer2": "Rio São Francisco",
+        "answer3": "Rio Paraná",
+        "answer4": "Rio Tocantins",
+        "correctanswer": "Rio São Francisco",
+        "subject": "geografia"
+    },
+    "28": {
+        "question": "Qual é a capital do estado do Amazonas?",
+        "answer1": "Belém",
+        "answer2": "Porto Velho",
+        "answer3": "Manaus",
+        "answer4": "Rio Branco",
+        "correctanswer": "Manaus",
+        "subject": "geografia"
+    },
+    "29": {
+        "question": "A região Norte é caracterizada principalmente por qual tipo de vegetação?",
+        "answer1": "Cerrado",
+        "answer2": "Caatinga",
+        "answer3": "Floresta Amazônica",
+        "answer4": "Pantanal",
+        "correctanswer": "Floresta Amazônica",
+        "subject": "geografia"
+    },
+    "30": {
+        "question": "Quem descobriu o Brasil?",
+        "answer1": "Cristóvão Colombo",
+        "answer2": "Vasco da Gama",
+        "answer3": "Pedro Álvares Cabral",
+        "answer4": "Fernão de Magalhães",
+        "correctanswer": "Pedro Álvares Cabral",
+        "subject": "historia"
+    },
+    "31": {
+        "question": "Em que ano o Brasil foi descoberto?",
         "answer1": "1500",
         "answer2": "1492",
         "answer3": "1600",
         "answer4": "1700",
         "correctanswer": "1500",
-        "subject": "História"
-    },
-    "18": {
-        "question": "Qual foi a capital do Brasil antes de Brasília?",
-        "answer1": "Recife",
-        "answer2": "Rio de Janeiro",
-        "answer3": "Salvador",
-        "answer4": "São Paulo",
-        "correctanswer": "Rio de Janeiro",
-        "subject": "História"
-    },
-    "19": {
-        "question": "Quem proclamou a Independência do Brasil?",
-        "answer1": "Dom Pedro II",
-        "answer2": "Dom João VI",
-        "answer3": "Dom Pedro I",
-        "answer4": "Tiradentes",
-        "correctanswer": "Dom Pedro I",
-        "subject": "História"
-    },
-    "20": {
-        "question": "Qual povo construiu as pirâmides do Egito?",
-        "answer1": "Romanos",
-        "answer2": "Gregos",
-        "answer3": "Egípcios",
-        "answer4": "Incas",
-        "correctanswer": "Egípcios",
-        "subject": "História"
-    },
-    "21": {
-        "question": "Qual destes é um planeta do sistema solar?",
-        "answer1": "Vênus",
-        "answer2": "Lua",
-        "answer3": "Sol",
-        "answer4": "Estrela",
-        "correctanswer": "Vênus",
-        "subject": "Ciências"
-    },
-    "22": {
-        "question": "Qual é o estado da água em temperatura ambiente?",
-        "answer1": "Sólido",
-        "answer2": "Líquido",
-        "answer3": "Gasoso",
-        "answer4": "Plasma",
-        "correctanswer": "Líquido",
-        "subject": "Ciências"
-    },
-    "23": {
-        "question": "O que as plantas precisam para fazer fotossíntese?",
-        "answer1": "Oxigênio",
-        "answer2": "Luz solar",
-        "answer3": "Sal",
-        "answer4": "Fósforo",
-        "correctanswer": "Luz solar",
-        "subject": "Ciências"
-    },
-    "24": {
-        "question": "Qual é o maior órgão do corpo humano?",
-        "answer1": "Coração",
-        "answer2": "Pulmão",
-        "answer3": "Fígado",
-        "answer4": "Pele",
-        "correctanswer": "Pele",
-        "subject": "Ciências"
-    },
-    "25": {
-        "question": "Qual é a principal função do esqueleto humano?",
-        "answer1": "Produzir sangue",
-        "answer2": "Movimentar o corpo",
-        "answer3": "Dar suporte e proteção",
-        "answer4": "Produzir energia",
-        "correctanswer": "Dar suporte e proteção",
-        "subject": "Ciências"
-    },
-    "26": {
-        "question": "Qual é a principal fonte de energia para a Terra?",
-        "answer1": "Vento",
-        "answer2": "Sol",
-        "answer3": "Água",
-        "answer4": "Petróleo",
-        "correctanswer": "Sol",
-        "subject": "Ciências"
-    },
-    "27": {
-        "question": "Qual desses animais é um mamífero?",
-        "answer1": "Jacaré",
-        "answer2": "Tartaruga",
-        "answer3": "Golfinho",
-        "answer4": "Pato",
-        "correctanswer": "Golfinho",
-        "subject": "Ciências"
-    },
-    "28": {
-        "question": "Qual dos relevos é plano?",
-        "answer1": "Planalto",
-        "answer2": "Depressão",
-        "answer3": "Estepe",
-        "answer4": "Planície",
-        "correctanswer": "Planície",
-        "subject": "Geografia"
-    },
-    "29": {
-        "question": "Qual parte da planta é responsável pela fotossíntese?",
-        "answer1": "Raiz",
-        "answer2": "Caule",
-        "answer3": "Flor",
-        "answer4": "Folha",
-        "correctanswer": "Folha",
-        "subject": "Ciências"
-    },
-    "30": {
-        "question": "Qual é a função do sistema respiratório?",
-        "answer1": "Transportar nutrientes",
-        "answer2": "Eliminar resíduos",
-        "answer3": "Permitir a respiração",
-        "answer4": "Bombear sangue",
-        "correctanswer": "Permitir a respiração",
-        "subject": "Ciências"
-    },
-    "31": {
-        "question": "Qual é o planeta mais próximo do Sol?",
-        "answer1": "Vênus",
-        "answer2": "Terra",
-        "answer3": "Mercúrio",
-        "answer4": "Marte",
-        "correctanswer": "Mercúrio",
-        "subject": "Ciências"
+        "subject": "historia"
     },
     "32": {
-        "question": "O que é um habitat?",
-        "answer1": "Um tipo de alimentação",
-        "answer2": "O lugar onde um organismo vive",
-        "answer3": "Um comportamento animal",
-        "answer4": "Um tipo de reprodução",
-        "correctanswer": "O lugar onde um organismo vive",
-        "subject": "Ciências"
+        "question": "Qual era um dos principais produtos que o Brasil vendia na época colonial?",
+        "answer1": "Café",
+        "answer2": "Ouro",
+        "answer3": "Maçã",
+        "answer4": "Carvão",
+        "correctanswer": "Ouro",
+        "subject": "historia"
     },
     "33": {
-        "question": "Qual é o maior continente do mundo?",
-        "answer1": "África",
-        "answer2": "América",
-        "answer3": "Ásia",
-        "answer4": "Europa",
-        "correctanswer": "Ásia",
-        "subject": "Geografia"
+        "question": "Qual produto agrícola era muito importante para a economia do Brasil colonial?",
+        "answer1": "Milho",
+        "answer2": "Açúcar",
+        "answer3": "Arroz",
+        "answer4": "Batata",
+        "correctanswer": "Açúcar",
+        "subject": "historia"
     },
     "34": {
-        "question": "Qual é o principal rio do Brasil?",
-        "answer1": "Rio Amazonas",
-        "answer2": "Rio São Francisco",
-        "answer3": "Rio Tietê",
-        "answer4": "Rio Paraná",
-        "correctanswer": "Rio Amazonas",
-        "subject": "Geografia"
+        "question": "O que eram as capitanias hereditárias?",
+        "answer1": "Grandes cidades",
+        "answer2": "Territórios do Brasil dados a pessoas importantes",
+        "answer3": "Navios",
+        "answer4": "Animais",
+        "correctanswer": "Territórios do Brasil dados a pessoas importantes",
+        "subject": "historia"
     },
     "35": {
-        "question": "Qual destes é um país da América do Sul?",
-        "answer1": "China",
-        "answer2": "França",
-        "answer3": "Argentina",
-        "answer4": "Austrália",
-        "correctanswer": "Argentina",
-        "subject": "Geografia"
+        "question": "Quem era responsável por governar as capitanias hereditárias?",
+        "answer1": "O Rei",
+        "answer2": "Os índios",
+        "answer3": "Os donatários",
+        "answer4": "Os soldados",
+        "correctanswer": "Os donatários",
+        "subject": "historia"
     },
     "36": {
-        "question": "Qual é a capital do Brasil?",
-        "answer1": "São Paulo",
-        "answer2": "Rio de Janeiro",
-        "answer3": "Brasília",
-        "answer4": "Salvador",
-        "correctanswer": "Brasília",
-        "subject": "Geografia"
+        "question": "Onde foi encontrado ouro pela primeira vez no Brasil?",
+        "answer1": "Em uma grande cidade",
+        "answer2": "Na floresta",
+        "answer3": "Em Minas Gerais",
+        "answer4": "Na praia",
+        "correctanswer": "Em Minas Gerais",
+        "subject": "historia"
     },
     "37": {
-        "question": "O que é uma ilha?",
-        "answer1": "Uma área de terra cercada por água por todos os lados",
-        "answer2": "Uma montanha muito alta",
-        "answer3": "Um rio muito longo",
-        "answer4": "Um deserto muito grande",
-        "correctanswer": "Uma área de terra cercada por água por todos os lados",
-        "subject": "Geografia"
+        "question": "O que era a sociedade do ouro?",
+        "answer1": "Pessoas que compravam e vendiam ouro",
+        "answer2": "Pessoas que trabalhavam para encontrar e explorar ouro",
+        "answer3": "Um grupo de amigos",
+        "answer4": "Uma festa com ouro",
+        "correctanswer": "Pessoas que trabalhavam para encontrar e explorar ouro",
+        "subject": "historia"
     },
-    
-      "38": {
-        "question": "O que é um mapa?",
-        "answer1": "Um instrumento para medir o tempo",
-        "answer2": "Um gráfico de barras",
-        "answer3": "Uma representação gráfica de uma área",
-        "answer4": "Um tipo de planta",
-        "correctanswer": "Uma representação gráfica de uma área",
-        "subject": "Geografia"
+    "38": {
+        "question": "Qual era o principal objetivo das expedições dos bandeirantes?",
+        "answer1": "Explorar novas rotas comerciais",
+        "answer2": "Encontrar terras para cultivo",
+        "answer3": "Capturar índios e buscar riquezas",
+        "answer4": "Construir cidades",
+        "correctanswer": "Capturar índios e buscar riquezas",
+        "subject": "historia"
     },
     "39": {
-        "question": "Quem foi o líder do movimento que lutou pela abolição da escravatura no Brasil?",
-        "answer1": "Zumbi dos Palmares",
-        "answer2": "Tiradentes",
-        "answer3": "Pedro II",
-        "answer4": "Dom Pedro I",
-        "correctanswer": "Zumbi dos Palmares",
-        "subject": "História"
+        "question": "Quem era um famoso bandeirante que explorou o interior do Brasil?",
+        "answer1": "Pedro Álvares Cabral",
+        "answer2": "Antônio Raposo Tavares",
+        "answer3": "Dom Pedro I",
+        "answer4": "Joaquim José da Silva Xavier",
+        "correctanswer": "Antônio Raposo Tavares",
+        "subject": "historia"
     },
     "40": {
-        "question": "O que foi a 'Inconfidência Mineira'?",
-        "answer1": "Uma revolta pela independência do Brasil",
-        "answer2": "Um movimento pela abolição da escravatura",
-        "answer3": "Uma revolta contra os impostos coloniais",
-        "answer4": "Uma guerra entre estados brasileiros",
-        "correctanswer": "Uma revolta contra os impostos coloniais",
-        "subject": "História"
+        "question": "O que as câmaras municipais faziam no Brasil colonial?",
+        "answer1": "Organizar festas",
+        "answer2": "Ajudar a resolver problemas da cidade",
+        "answer3": "Plantar flores",
+        "answer4": "Construir navios",
+        "correctanswer": "Ajudar a resolver problemas da cidade",
+        "subject": "historia"
     },
     "41": {
-        "question": "Qual foi o tratado que dividiu as terras entre Portugal e Espanha no período das Grandes Navegações?",
-        "answer1": "Tratado de Paris",
-        "answer2": "Tratado de Madri",
-        "answer3": "Tratado de Tordesilhas",
-        "answer4": "Tratado de Lisboa",
-        "correctanswer": "Tratado de Tordesilhas",
-        "subject": "História"
+        "question": "O que era o pacto colonial?",
+        "answer1": "Um acordo para vender produtos para qualquer país",
+        "answer2": "Um acordo em que o país só podia vender para Metrópole",
+        "answer3": "Uma nova regra de escola",
+        "answer4": "Uma lei sobre animais",
+        "correctanswer": "Um acordo em que o país só podia vender para Metrópole",
+        "subject": "historia"
     },
     "42": {
-        "question": "Quem foi Tiradentes?",
-        "answer1": "Um explorador português",
-        "answer2": "Um líder indígena",
-        "answer3": "Um dos líderes da Inconfidência Mineira",
-        "answer4": "Um presidente do Brasil",
-        "correctanswer": "Um dos líderes da Inconfidência Mineira",
-        "subject": "História"
+        "question": "O que aconteceu com o comércio por causa do pacto colonial?",
+        "answer1": "O Brasil podia vender para muitos países",
+        "answer2": "O Brasil só podia vender para Portugal",
+        "answer3": "O comércio foi proibido",
+        "answer4": "O Brasil comprava muito mais",
+        "correctanswer": "O Brasil só podia vender para Portugal",
+        "subject": "historia"
     },
     "43": {
-        "question": "Qual é o resultado de 2/3 + 1/3?",
-        "answer1": "1",
-        "answer2": "2/3",
-        "answer3": "1/2",
-        "answer4": "4/3",
-        "correctanswer": "1",
-        "subject": "Matemática"
+        "question": "Como o pacto colonial afetou a economia do Brasil?",
+        "answer1": "O Brasil se tornou mais rico",
+        "answer2": "O Brasil teve que comprar produtos mais caros de Portugal",
+        "answer3": "O Brasil começou a vender produtos para outros países",
+        "answer4": "O Brasil não fez mais comércio",
+        "correctanswer": "O Brasil teve que comprar produtos mais caros de Portugal",
+        "subject": "historia"
     },
     "44": {
-        "question": "Quanto é 12 x 12?",
-        "answer1": "144",
-        "answer2": "121",
-        "answer3": "132",
-        "answer4": "156",
-        "correctanswer": "144",
-        "subject": "Matemática"
+        "question": "Qual é o principal bioma encontrado na Amazônia?",
+        "answer1": "Cerrado",
+        "answer2": "Caatinga",
+        "answer3": "Pantanal",
+        "answer4": "Floresta Tropical",
+        "correctanswer": "Floresta Tropical",
+        "subject": "ciencias"
     },
     "45": {
-        "question": "Qual é a área de um triângulo com base de 10 cm e altura de 5 cm?",
-        "answer1": "50 cm²",
-        "answer2": "30 cm²",
-        "answer3": "25 cm²",
-        "answer4": "40 cm²",
-        "correctanswer": "25 cm²",
-        "subject": "Matemática"
+        "question": "O que caracteriza um bioma?",
+        "answer1": "O tipo de solo",
+        "answer2": "A temperatura e a quantidade de água",
+        "answer3": "Os tipos de plantas e animais que vivem lá",
+        "answer4": "A cor das árvores",
+        "correctanswer": "Os tipos de plantas e animais que vivem lá",
+        "subject": "ciencias"
     },
     "46": {
-        "question": "Qual é o valor de 5²?",
-        "answer1": "15",
-        "answer2": "25",
-        "answer3": "20",
-        "answer4": "10",
-        "correctanswer": "25",
-        "subject": "Matemática"
+        "question": "Qual dos seguintes é um recurso natural?",
+        "answer1": "A cor da parede",
+        "answer2": "O vento",
+        "answer3": "O som da música",
+        "answer4": "A luz da televisão",
+        "correctanswer": "O vento",
+        "subject": "ciencias"
     },
     "47": {
-        "question": "Quanto é 45 ÷ 9?",
-        "answer1": "4",
-        "answer2": "5",
-        "answer3": "6",
-        "answer4": "7",
-        "correctanswer": "5",
-        "subject": "Matemática"
+        "question": "O que é chuva ácida?",
+        "answer1": "Chuva que tem muita água",
+        "answer2": "Chuva que pode prejudicar as espécies devido à poluição",
+        "answer3": "Chuva que não molha as plantas",
+        "answer4": "Chuva que só cai no verão",
+        "correctanswer": "Chuva que pode prejudicar as espécies devido à poluição",
+        "subject": "ciencias"
     },
     "48": {
-        "question": "Qual é o sujeito da frase: 'Os alunos estudam para a prova'?",
-        "answer1": "Estudam",
-        "answer2": "Para a prova",
-        "answer3": "Os alunos",
-        "answer4": "Prova",
-        "correctanswer": "Os alunos",
-        "subject": "Língua Portuguesa"
+        "question": "Qual é uma das principais causas da poluição do ar?",
+        "answer1": "Uso de carros e indústrias",
+        "answer2": "Plantar mais árvores",
+        "answer3": "Tomar água limpa",
+        "answer4": "Andar a pé",
+        "correctanswer": "Uso de carros e indústrias",
+        "subject": "ciencias"
     },
     "49": {
-        "question": "Qual é o tipo de predicado na frase: 'O cachorro está doente'?",
-        "answer1": "Predicado verbal",
-        "answer2": "Predicado nominal",
-        "answer3": "Predicado verbo-nominal",
-        "answer4": "Predicado objetivo",
-        "correctanswer": "Predicado nominal",
-        "subject": "Língua Portuguesa"
+        "question": "O que é poluição da água?",
+        "answer1": "Água limpa e clara",
+        "answer2": "Água que tem lixo e produtos químicos",
+        "answer3": "Água que só cai do céu",
+        "answer4": "Água do mar",
+        "correctanswer": "Água que tem lixo e produtos químicos",
+        "subject": "ciencias"
     },
     "50": {
-        "question": "Qual é a função do advérbio na frase: 'Ele correu rapidamente para casa'?",
-        "answer1": "Indicar lugar",
-        "answer2": "Indicar modo",
-        "answer3": "Indicar tempo",
-        "answer4": "Indicar quantidade",
-        "correctanswer": "Indicar modo",
-        "subject": "Língua Portuguesa"
+        "question": "Como a poluição do solo pode afetar as plantas?",
+        "answer1": "Ajudando no crescimento das plantas",
+        "answer2": "Fazendo com que as plantas cresçam mais rápido",
+        "answer3": "Prejudicando o crescimento das plantas",
+        "answer4": "Tornando as plantas mais coloridas",
+        "correctanswer": "Prejudicando o crescimento das plantas",
+        "subject": "ciencias"
     },
     "51": {
-        "question": "Qual é a figura de linguagem presente na frase: 'Ela chorou rios de lágrimas'?",
-        "answer1": "Metáfora",
-        "answer2": "Metonímia",
-        "answer3": "Hipérbole",
-        "answer4": "Antítese",
-        "correctanswer": "Hipérbole",
-        "subject": "Língua Portuguesa"
+        "question": "Qual das palavras abaixo é um substantivo?",
+        "answer1": "Correr",
+        "answer2": "Alegre",
+        "answer3": "Casa",
+        "answer4": "Muito",
+        "correctanswer": "Casa",
+        "subject": "portugues"
     },
     "52": {
-        "question": "Qual é a forma verbal correta na frase: 'Se ele _ mais cedo, teria chegado a tempo'?",
-        "answer1": "chegasse",
-        "answer2": "chegou",
-        "answer3": "chegará",
-        "answer4": "chegando",
-        "correctanswer": "chegasse",
-        "subject": "Língua Portuguesa"
+        "question": "Na frase 'O livro interessante foi lido por todos', qual é o adjetivo?",
+        "answer1": "livro",
+        "answer2": "interessante",
+        "answer3": "foi",
+        "answer4": "lido",
+        "correctanswer": "interessante",
+        "subject": "portugues"
     },
     "53": {
-        "question": "Qual é a função sintática do termo 'com o livro' na frase: 'Ele estava com o livro'? ",
-        "answer1": "Sujeito",
-        "answer2": "Complemento direto",
-        "answer3": "Adjunto adnominal",
-        "answer4": "Complemento circunstancial",
-        "correctanswer": "Complemento circunstancial",
-        "subject": "Língua Portuguesa"
+        "question": "Qual das palavras é um sinônimo de “feliz”?",
+        "answer1": "Triste",
+        "answer2": "Contente",
+        "answer3": "Preocupado",
+        "answer4": "Nervoso",
+        "correctanswer": "Contente",
+        "subject": "portugues"
     },
     "54": {
-        "question": "Qual é o antônimo da palavra 'triste'?",
-        "answer1": "Chateado",
-        "answer2": "Amargo",
-        "answer3": "Alegre",
-        "answer4": "Melancólico",
-        "correctanswer": "Alegre",
-        "subject": "Língua Portuguesa"
+        "question": "Qual das palavras é um antônimo de “alto”?",
+        "answer1": "Grande",
+        "answer2": "Baixo",
+        "answer3": "Largo",
+        "answer4": "Reto",
+        "correctanswer": "Baixo",
+        "subject": "portugues"
     },
     "55": {
-        "question": "Qual é o passado do verbo 'to go'?",
-        "answer1": "Goed",
-        "answer2": "Goes",
-        "answer3": "Went",
-        "answer4": "Gone",
-        "correctanswer": "Went",
-        "subject": "Língua Inglesa"
+        "question": "Escolha a alternativa que apresenta um advérbio de tempo:",
+        "answer1": "Rapidamente",
+        "answer2": "Ontem",
+        "answer3": "Suave",
+        "answer4": "Sempre",
+        "correctanswer": "Ontem",
+        "subject": "portugues"
     },
     "56": {
-        "question": "Qual palavra é sinônimo de 'happy'?",
-        "answer1": "Angry",
-        "answer2": "Bored",
-        "answer3": "Joyful",
-        "answer4": "Sad",
-        "correctanswer": "Joyful",
-        "subject": "Língua Inglesa"
+        "question": "Qual é o sinônimo da palavra “pequeno”?",
+        "answer1": "Grande",
+        "answer2": "Minúsculo",
+        "answer3": "Enorme",
+        "answer4": "Alto",
+        "correctanswer": "Minúsculo",
+        "subject": "portugues"
     },
     "57": {
-        "question": "Como se diz 'livro' em inglês?",
-        "answer1": "Notebook",
-        "answer2": "Pen",
-        "answer3": "Pencil",
-        "answer4": "Book",
-        "correctanswer": "Book",
-        "subject": "Língua Inglesa"
+        "question": "Qual é o antônimo da palavra “claro”?",
+        "answer1": "Luz",
+        "answer2": "Escuro",
+        "answer3": "Claro",
+        "answer4": "Brilhante",
+        "correctanswer": "Escuro",
+        "subject": "portugues"
     },
     "58": {
-        "question": "Qual é a forma plural de 'child'?",
-        "answer1": "Childs",
-        "answer2": "Childes",
-        "answer3": "Children",
-        "answer4": "Childrens",
-        "correctanswer": "Children",
-        "subject": "Língua Inglesa"
+        "question": "Qual das palavras abaixo é um substantivo próprio?",
+        "answer1": "Livro",
+        "answer2": "Praia",
+        "answer3": "Maria",
+        "answer4": "Cadeira",
+        "correctanswer": "Maria",
+        "subject": "portugues"
     },
     "59": {
-        "question": "Qual é a tradução correta de 'Ele está comendo uma maçã'?",
-        "answer1": "He is eat an apple",
-        "answer2": "He eats an apple",
-        "answer3": "He is eating an apple",
-        "answer4": "He are eating an apple",
-        "correctanswer": "He is eating an apple",
-        "subject": "Língua Inglesa"
+        "question": "Qual é o adjetivo na frase 'O céu azul está sem nuvens'?",
+        "answer1": "céu",
+        "answer2": "azul",
+        "answer3": "está",
+        "answer4": "nuvens",
+        "correctanswer": "azul",
+        "subject": "portugues"
     },
     "60": {
-        "question": "Qual é o oposto de 'hot'?",
-        "answer1": "Warm",
-        "answer2": "Freezing",
-        "answer3": "Cold",
-        "answer4": "Cool",
-        "correctanswer": "Cold",
-        "subject": "Língua Inglesa"
+        "question": "Qual é o sinônimo de “rápido”?",
+        "answer1": "Lento",
+        "answer2": "Ágil",
+        "answer3": "Tarde",
+        "answer4": "Devagar",
+        "correctanswer": "Ágil",
+        "subject": "portugues"
     },
     "61": {
-        "question": "Escolha a frase correta.",
-        "answer1": "She don't like pizza.",
-        "answer2": "She doesn't likes pizza.",
-        "answer3": "She doesn't like pizza.",
-        "answer4": "She don't likes pizza.",
-        "correctanswer": "She doesn't like pizza.",
-        "subject": "Língua Inglesa"
+        "question": "Qual dos seguintes números é um número primo?",
+        "answer1": "4",
+        "answer2": "6",
+        "answer3": "7",
+        "answer4": "9",
+        "correctanswer": "7",
+        "subject": "matematica"
     },
     "62": {
-        "question": "Qual é a capital do Japão?",
-        "answer1": "Osaka",
-        "answer2": "Tóquio",
-        "answer3": "Kyoto",
-        "answer4": "Seul",
-        "correctanswer": "Tóquio",
-        "subject": "Geografia"
+        "question": "Qual é o sucessor de 99?",
+        "answer1": "98",
+        "answer2": "100",
+        "answer3": "101",
+        "answer4": "102",
+        "correctanswer": "100",
+        "subject": "matematica"
     },
     "63": {
-        "question": "Qual é o maior rio da América do Sul?",
-        "answer1": "Rio Paraná",
-        "answer2": "Rio Amazonas",
-        "answer3": "Rio Paraguai",
-        "answer4": "Rio Uruguai",
-        "correctanswer": "Rio Amazonas",
-        "subject": "Geografia"
+        "question": "Qual é a soma de 3/4 e 1/4?",
+        "answer1": "1/2",
+        "answer2": "1",
+        "answer3": "2/4",
+        "answer4": "3/4",
+        "correctanswer": "1",
+        "subject": "matematica"
     },
     "64": {
-        "question": "Qual é o país com maior extensão territorial do mundo?",
-        "answer1": "Canadá",
-        "answer2": "Rússia",
-        "answer3": "China",
-        "answer4": "Estados Unidos",
-        "correctanswer": "Rússia",
-        "subject": "Geografia"
+        "question": "Se você subtrair 2/5 de 4/5, qual é o resultado?",
+        "answer1": "1/5",
+        "answer2": "2/5",
+        "answer3": "3/5",
+        "answer4": "4/5",
+        "correctanswer": "2/5",
+        "subject": "matematica"
     },
     "65": {
-        "question": "Qual é o maior deserto quente do mundo?",
-        "answer1": "Deserto de Kalahari",
-        "answer2": "Deserto de Gobi",
-        "answer3": "Deserto de Atacama",
-        "answer4": "Deserto do Saara",
-        "correctanswer": "Deserto do Saara",
-        "subject": "Geografia"
+        "question": "Qual é o resultado da expressão 6 + (4 × 2)?",
+        "answer1": "14",
+        "answer2": "16",
+        "answer3": "12",
+        "answer4": "20",
+        "correctanswer": "14",
+        "subject": "matematica"
     },
     "66": {
-        "question": "Qual foi o principal movimento cultural e artístico do Renascimento?",
-        "answer1": "Barroco",
-        "answer2": "Realismo",
-        "answer3": "Renascimento Carolíngio",
-        "answer4": "Humanismo",
-        "correctanswer": "Humanismo",
-        "subject": "História"
+        "question": "Qual é o sucessor de 29?",
+        "answer1": "27",
+        "answer2": "28",
+        "answer3": "30",
+        "answer4": "31",
+        "correctanswer": "30",
+        "subject": "matematica"
     },
     "67": {
-        "question": "O que foi o Iluminismo?",
-        "answer1": "Um movimento cultural na Idade Média",
-        "answer2": "Uma revolta camponesa na Europa",
-        "answer3": "Um movimento filosófico e cultural no século XVIII",
-        "answer4": "Um período de expansão territorial",
-        "correctanswer": "Um movimento filosófico e cultural no século XVIII",
-        "subject": "História"
-    },
-    "68": {
-        "question": "Quem foi Karl Marx?",
-        "answer1": "Um filósofo grego",
-        "answer2": "Um líder político romano",
-        "answer3": "Um pensador socialista do século XIX",
-        "answer4": "Um explorador português",
-        "correctanswer": "Um pensador socialista do século XIX",
-        "subject": "História"
-    },
-    "69": {
-        "question": "Qual foi o resultado da Revolução Francesa?",
-        "answer1": "A volta do absolutismo na França",
-        "answer2": "A independência da França",
-        "answer3": "A proclamação da República Francesa",
-        "answer4": "A instauração de uma monarquia absolutista",
-        "correctanswer": "A proclamação da República Francesa",
-        "subject": "História"
-    },
-    "70": {
-        "question": "Quem liderou o movimento pela independência da Índia?",
-        "answer1": "Nelson Mandela",
-        "answer2": "Mahatma Gandhi",
-        "answer3": "Napoleão Bonaparte",
-        "answer4": "Che Guevara",
-        "correctanswer": "Mahatma Gandhi",
-        "subject": "História"
-    },
-    "71": {
-        "question": "Onde ocorreu a Revolução Industrial?",
-        "answer1": "Alemanha",
-        "answer2": "China",
-        "answer3": "Inglaterra",
-        "answer4": "Rússia",
-        "correctanswer": "Inglaterra",
-        "subject": "História"
-    },
-    "72": {
-        "question": "Qual é o resultado de 24 + 36?",
-        "answer1": "50",
-        "answer2": "60",
-        "answer3": "70",
-        "answer4": "80",
-        "correctanswer": "60",
-        "subject": "Matemática"
-    },
-    "73": {
-        "question": "Quanto é 5 × 8?",
-        "answer1": "35",
-        "answer2": "40",
-        "answer3": "45",
-        "answer4": "50",
-        "correctanswer": "40",
-        "subject": "Matemática"
-    },
-    "74": {
-        "question": "Qual é o resultado de 3/4 + 1/4?",
-        "answer1": "1/2",
-        "answer2": "5/4",
-        "answer3": "1",
-        "answer4": "7/4",
-        "correctanswer": "1",
-        "subject": "Matemática"
-    },
-    "75": {
-        "question": "Qual é a área de um retângulo com base 8 cm e altura 5 cm?",
-        "answer1": "35 cm²",
-        "answer2": "20 cm²",
-        "answer3": "45 cm²",
-        "answer4": "50 cm²",
-        "correctanswer": "20 cm²",
-        "subject": "Matemática"
-    },
-    "76": {
-        "question": "Quanto é 7²?",
+        "question": "Qual é o antecessor de 50?",
         "answer1": "49",
-        "answer2": "50",
-        "answer3": "51",
+        "answer2": "51",
+        "answer3": "48",
         "answer4": "52",
         "correctanswer": "49",
-        "subject": "Matemática"
+        "subject": "matematica"
     },
-    "77": {
-        "question": "Qual é o valor de x na equação 2x + 5 = 15?",
-        "answer1": "5",
-        "answer2": "7",
-        "answer3": "8",
-        "answer4": "10",
-        "correctanswer": "5",
-        "subject": "Matemática"
+    "68": {
+        "question": "Se você tem a fração 5/8 e quer adicionar 2/8, qual é a resposta?",
+        "answer1": "6/8",
+        "answer2": "7/8",
+        "answer3": "8/8",
+        "answer4": "5/8",
+        "correctanswer": "7/8",
+        "subject": "matematica"
     },
-    "78": {
-        "question": "Qual é a fração equivalente a 0.75?",
-        "answer1": "1/3",
-        "answer2": "3/4",
-        "answer3": "2/3",
-        "answer4": "4/5",
-        "correctanswer": "3/4",
-        "subject": "Matemática"
-    },
-    "79": {
-        "question": "Quanto é 144 ÷ 12?",
-        "answer1": "10",
-        "answer2": "11",
-        "answer3": "12",
-        "answer4": "13",
-        "correctanswer": "12",
-        "subject": "Matemática"
-    },
-    "80": {
-        "question": "Qual é a raiz quadrada de 144?",
-        "answer1": "10",
-        "answer2": "12",
-        "answer3": "14",
-        "answer4": "16",
-        "correctanswer": "12",
-        "subject": "Matemática"
-    },
-    "81": {
-        "question": "Quanto é 3/5 × 25?",
-        "answer1": "12",
-        "answer2": "13",
-        "answer3": "14",
-        "answer4": "15",
-        "correctanswer": "15",
-        "subject": "Matemática"
-    },
-    "82": {
-        "question": "Qual é a função principal do coração no corpo humano?",
-        "answer1": "Digestão",
-        "answer2": "Respiração",
-        "answer3": "Circulação",
-        "answer4": "Excreção",
-        "correctanswer": "Circulação"
-    },
-    "83": {
-        "question": "Qual gás os humanos exalam?",
-        "answer1": "Oxigênio",
-        "answer2": "Dióxido de carbono",
-        "answer3": "Nitrogênio",
-        "answer4": "Hidrogênio",
-        "correctanswer": "Dióxido de carbono"
-    },
-    "84": {
-        "question": "Quem pintou a Mona Lisa?",
-        "answer1": "Vincent van Gogh",
-        "answer2": "Leonardo da Vinci",
-        "answer3": "Pablo Picasso",
-        "answer4": "Michelangelo",
-        "correctanswer": "Leonardo da Vinci"
-    },
-    "85": {
-        "question": "Qual artista é conhecido por seus relógios derretendo?",
-        "answer1": "Vincent van Gogh",
-        "answer2": "Salvador Dalí",
-        "answer3": "Claude Monet",
-        "answer4": "Andy Warhol",
-        "correctanswer": "Salvador Dalí"
-    },
-    "86": {
-        "question": "Qual é a técnica de criar imagens com pequenos pedaços de vidro ou pedra colorida?",
-        "answer1": "Escultura",
-        "answer2": "Mosaico",
-        "answer3": "barroquismo",
-        "answer4": "Ceramica",
-        "correctanswer": "Mosaico"
-    },
-    "87": {
-        "question": "Quem esculpiu a estátua de Davi?",
-        "answer1": "Michelangelo",
-        "answer2": "Pablo Picasso",
-        "answer3": "Claude Monet",
-        "answer4": "Vincent van Gogh",
-        "correctanswer": "Michelangelo"
-    },
-    "88": {
-        "question": "Qual estilo artístico é caracterizado por movimento exagerado e detalhes claros?",
-        "answer1": "Impressionismo",
-        "answer2": "Cubismo",
-        "answer3": "Realismo",
-        "answer4": "Barroco",
-        "correctanswer": "Barroco"
-    },
-    "89": {
-        "question": "Quem pintou 'Noite Estrelada'?",
-        "answer1": "Leonardo da Vinci",
-        "answer2": "Vincent van Gogh",
-        "answer3": "Salvador Dalí",
-        "answer4": "Pablo Picasso",
-        "correctanswer": "Vincent van Gogh"
-    },
-    "90": {
-        "question": "Calcule: 24 ÷ 6.",
-        "answer1": "4",
-        "answer2": "5",
-        "answer3": "6",
-        "answer4": "8",
-        "correctanswer": "4"
-    },
-    "91": {
-        "question": "Se uma pizza é dividida em 6 fatias iguais, quantas fatias cada pessoa recebe se 3 pessoas compartilham a pizza igualmente?",
+    "69": {
+        "question": "Qual é o valor da expressão 5 - (2 + 1)?",
         "answer1": "2",
         "answer2": "3",
         "answer3": "4",
         "answer4": "5",
-        "correctanswer": "2"
-        },
+        "correctanswer": "2",
+        "subject": "matematica"
+    },
+    "70": {
+        "question": "Qual dos seguintes números não é um número primo?",
+        "answer1": "11",
+        "answer2": "13",
+        "answer3": "15",
+        "answer4": "17",
+        "correctanswer": "15",
+        "subject": "matematica"
+    },
+    "71": {
+        "question": "Qual dos seguintes é um bioma encontrado no Brasil?",
+        "answer1": "Deserto",
+        "answer2": "Savana",
+        "answer3": "Cerrado",
+        "answer4": "Tundra",
+        "correctanswer": "Cerrado",
+        "subject": "geografia"
+    },
+    "72": {
+        "question": "Qual é o clima predominante na Região Norte do Brasil?",
+        "answer1": "Tropical",
+        "answer2": "Temperado",
+        "answer3": "Ártico",
+        "answer4": "Mediterrâneo",
+        "correctanswer": "Tropical",
+        "subject": "geografia"
+    },
+    "73": {
+        "question": "Qual é uma característica do bioma Cerrado?",
+        "answer1": "Floresta densa e úmida",
+        "answer2": "Clima frio e seco",
+        "answer3": "Vegetação de arbustos e árvores esparsas",
+        "answer4": "Muitas áreas de gelo",
+        "correctanswer": "Vegetação de arbustos e árvores esparsas",
+        "subject": "geografia"
+    },
+    "74": {
+        "question": "Qual é a principal fonte de energia renovável usada no Brasil?",
+        "answer1": "Carvão",
+        "answer2": "Energia solar",
+        "answer3": "Energia eólica",
+        "answer4": "Energia hidrelétrica",
+        "correctanswer": "Energia hidrelétrica",
+        "subject": "geografia"
+    },
+    "75": {
+        "question": "Qual é uma característica do bioma Caatinga?",
+        "answer1": "Clima seco e vegetação xerófila",
+        "answer2": "Florestas tropicais densas",
+        "answer3": "Áreas de tundra e gelo",
+        "answer4": "Clima temperado e vegetação de pinheiros",
+        "correctanswer": "Clima seco e vegetação xerófila",
+        "subject": "geografia"
+    },
+    "76": {
+        "question": "Qual é o clima predominante na Região Sul do Brasil?",
+        "answer1": "Tropical",
+        "answer2": "Subtropical",
+        "answer3": "Equatorial",
+        "answer4": "Árido",
+        "correctanswer": "Subtropical",
+        "subject": "geografia"
+    },
+    "77": {
+        "question": "Qual das seguintes é uma fonte não renovável de energia?",
+        "answer1": "Energia eólica",
+        "answer2": "Energia solar",
+        "answer3": "Petróleo",
+        "answer4": "Biomassa",
+        "correctanswer": "Petróleo",
+        "subject": "geografia"
+    },
+    "78": {
+        "question": "Qual é uma característica da Região Sudeste do Brasil?",
+        "answer1": "Predomínio de clima seco e vegetação xerófila",
+        "answer2": "Presença de grandes centros urbanos e atividades industriais",
+        "answer3": "Clima frio e vegetação de tundra",
+        "answer4": "Grandes áreas de floresta tropical densa",
+        "correctanswer": "Presença de grandes centros urbanos e atividades industriais",
+        "subject": "geografia"
+    },
+    "79": {
+        "question": "Qual bioma é conhecido por suas vastas áreas de floresta tropical?",
+        "answer1": "Pantanal",
+        "answer2": "Cerrado",
+        "answer3": "Amazônia",
+        "answer4": "Pampas",
+        "correctanswer": "Amazônia",
+        "subject": "geografia"
+    },
+    "80": {
+        "question": "Qual é uma característica do clima tropical?",
+        "answer1": "Estações bem definidas com inverno e verão",
+        "answer2": "Temperaturas baixas e neve",
+        "answer3": "Temperaturas elevadas e chuvas durante todo o ano",
+        "answer4": "Clima seco com pouca chuva",
+        "correctanswer": "Temperaturas elevadas e chuvas durante todo o ano",
+        "subject": "geografia"
+    },
+    "81": {
+        "question": "Qual é um dos cinco sentidos que usamos para sentir o sabor dos alimentos?",
+        "answer1": "Audição",
+        "answer2": "Visão",
+        "answer3": "Olfato",
+        "answer4": "Paladar",
+        "correctanswer": "Paladar",
+        "subject": "geografia"
+    },
+    "82": {
+        "question": "Qual dos seguintes é um exemplo de animal vertebrado?",
+        "answer1": "Abelha",
+        "answer2": "Peixe",
+        "answer3": "Caracol",
+        "answer4": "Minhoca",
+        "correctanswer": "Peixe",
+        "subject": "geografia"
+    },
+    "83": {
+        "question": "Qual é uma característica dos animais invertebrados?",
+        "answer1": "Têm coluna vertebral",
+        "answer2": "Não têm coluna vertebral",
+        "answer3": "Vivem apenas na água",
+        "answer4": "São todos répteis",
+        "correctanswer": "Não têm coluna vertebral",
+        "subject": "geografia"
+    },
+    "84": {
+        "question": "Qual grupo alimentar é conhecido por fornecer proteínas?",
+        "answer1": "Frutas",
+        "answer2": "Legumes",
+        "answer3": "Carnes",
+        "answer4": "Grãos",
+        "correctanswer": "Carnes",
+        "subject": "geografia"
+    },
+    "85": {
+        "question": "Qual dos seguintes é um dos cinco sentidos que usamos para ouvir sons?",
+        "answer1": "Paladar",
+        "answer2": "Tato",
+        "answer3": "Visão",
+        "answer4": "Audição",
+        "correctanswer": "Audição",
+        "subject": "geografia"
+    },
+    "86": {
+        "question": "Qual é uma função importante da respiração para o nosso corpo?",
+        "answer1": "Ajudar na digestão dos alimentos",
+        "answer2": "Fornecer oxigênio para o corpo",
+        "answer3": "Eliminar as toxinas da pele",
+        "answer4": "Controlar a temperatura do corpo",
+        "correctanswer": "Fornecer oxigênio para o corpo",
+        "subject": "geografia"
+    },
+    "87": {
+        "question": "Qual dos seguintes animais pertence ao grupo dos invertebrados?",
+        "answer1": "Cão",
+        "answer2": "Pássaro",
+        "answer3": "Aranha",
+        "answer4": "Cavalo",
+        "correctanswer": "Aranha",
+        "subject": "geografia"
+    },
+    "88": {
+        "question": "Qual grupo alimentar é rico em vitaminas e minerais?",
+        "answer1": "Carnes",
+        "answer2": "Laticínios",
+        "answer3": "Frutas e vegetais",
+        "answer4": "Açúcares",
+        "correctanswer": "Frutas e vegetais",
+        "subject": "geografia"
+    },
+    "89": {
+        "question": "Qual dos seguintes é um dos cinco sentidos que usamos para sentir a textura das coisas?",
+        "answer1": "Olfato",
+        "answer2": "Visão",
+        "answer3": "Paladar",
+        "answer4": "Tato",
+        "correctanswer": "Tato",
+        "subject": "geografia"
+    },
+    "90": {
+        "question": "Qual dos seguintes animais é um exemplo de vertebrado?",
+        "answer1": "Sapo",
+        "answer2": "Lula",
+        "answer3": "Mosquito",
+        "answer4": "Centopéia",
+        "correctanswer": "Sapo",
+        "subject": "geografia"
+    },
+    "91": {
+        "question": "O que caracteriza a vida dos seres humanos na pré-história?",
+        "answer1": "Uso de tecnologia avançada",
+        "answer2": "Desenvolvimento de escrita",
+        "answer3": "Vida em cavernas e uso de ferramentas simples",
+        "answer4": "Construção de grandes cidades",
+        "correctanswer": "Vida em cavernas e uso de ferramentas simples",
+        "subject": "historia"
+    },
     "92": {
-        "question": "Se uma loja vendeu 36 chocolates em um dia e cada caixa contém 12 chocolates, quantas caixas foram vendidas?",
-        "answer1": "2",
-        "answer2": "3",
-        "answer3": "4",
-        "answer4": "6",
-        "correctanswer": "3"
+        "question": "Como os homens pré-históricos caçavam animais?",
+        "answer1": "Usavam armas de fogo",
+        "answer2": "Usavam redes e armadilhas sofisticadas",
+        "answer3": "Usavam lanças, arcos e flechas",
+        "answer4": "Compravam alimentos em mercados",
+        "correctanswer": "Usavam lanças, arcos e flechas",
+        "subject": "historia"
     },
     "93": {
-        "question": "Qual foi o evento que marcou o fim da Idade Média na Europa?",
-        "answer1": "Revolução Industrial",
-        "answer2": "Renascimento Cultural",
-        "answer3": "Descobrimento da América",
-        "answer4": "Queda de Constantinopla",
-        "correctanswer": "Queda de Constantinopla"
+        "question": "Qual dos seguintes eventos faz parte da história do descobrimento do Brasil?",
+        "answer1": "O Tratado de Tordesilhas",
+        "answer2": "A Revolução Industrial",
+        "answer3": "A Independência dos Estados Unidos",
+        "answer4": "A Invenção da imprensa",
+        "correctanswer": "O Tratado de Tordesilhas",
+        "subject": "historia"
     },
     "94": {
-        "question": "Qual foi a principal consequência da Guerra Fria?",
-        "answer1": "Unificação das Alemanhas",
-        "answer2": "Independência das colônias africanas",
-        "answer3": "Revolução Cubana",
-        "answer4": "Divisão do mundo em blocos capitalista e socialista",
-        "correctanswer": "Divisão do mundo em blocos capitalista e socialista"
+        "question": "Qual era a principal atividade econômica no Brasil durante o período do ciclo do açúcar?",
+        "answer1": "Mineração",
+        "answer2": "Agricultura de açúcar",
+        "answer3": "Pecuária",
+        "answer4": "Pesca",
+        "correctanswer": "Agricultura de açúcar",
+        "subject": "historia"
     },
     "95": {
-        "question": "Qual é o artigo definido feminino singular?",
-        "answer1": "O",
-        "answer2": "Os",
-        "answer3": "A",
-        "answer4": "As",
-        "correctanswer": "A"
+        "question": "Quem foi o responsável pela declaração da Independência do Brasil em 1822?",
+        "answer1": "Dom Pedro I",
+        "answer2": "Dom João VI",
+        "answer3": "Tiradentes",
+        "answer4": "Getúlio Vargas",
+        "correctanswer": "Dom Pedro I",
+        "subject": "historia"
     },
     "96": {
-        "question": "Identifique o pronome pessoal oblíquo átono da terceira pessoa do singular:",
-        "answer1": "Eu",
-        "answer2": "Tu",
-        "answer3": "Ele",
-        "answer4": "Nós",
-        "correctanswer": "Ele"
+        "question": "O que foram as expedições dos Bandeirantes?",
+        "answer1": "Viagens para explorar e conquistar terras no interior do Brasil",
+        "answer2": "Navegações para a África",
+        "answer3": "Viagens para descobrir novas rotas comerciais para a Europa",
+        "answer4": "Expedições científicas para estudar a fauna brasileira",
+        "correctanswer": "Viagens para explorar e conquistar terras no interior do Brasil",
+        "subject": "historia"
     },
     "97": {
-        "question": "Complete a frase com o artigo indefinido plural adequado: 'Vi _ meninos brincando no parque.'",
-        "answer1": "o",
-        "answer2": "um",
-        "answer3": "os",
-        "answer4": "uns",
-        "correctanswer": "uns"
+        "question": "Quem foi Tiradentes?",
+        "answer1": "Um líder da Inconfidência Mineira",
+        "answer2": "Um governante português",
+        "answer3": "Um bandeirante paulista",
+        "answer4": "Um poeta do período colonial",
+        "correctanswer": "Um líder da Inconfidência Mineira",
+        "subject": "historia"
     },
     "98": {
-        "question": "Qual é o pronome demonstrativo de distância média?",
-        "answer1": "Este",
-        "answer2": "Esse",
-        "answer3": "Aquele",
-        "answer4": "Isto",
-        "correctanswer": "Esse"
+        "question": "O que foi a Proclamação da República no Brasil?",
+        "answer1": "A declaração da independência do Brasil",
+        "answer2": "A mudança do sistema de governo para uma república",
+        "answer3": "A criação das primeiras escolas no Brasil",
+        "answer4": "A assinatura de um tratado com Portugal",
+        "correctanswer": "A mudança do sistema de governo para uma república",
+        "subject": "historia"
     },
     "99": {
-        "question": "Complete a frase com o pronome possessivo adequado: '_ livro é meu.'",
-        "answer1": "Meu",
-        "answer2": "Teu",
-        "answer3": "Seu",
-        "answer4": "Nosso",
-        "correctanswer": "Meu"
+        "question": "Quem foi o principal responsável pela Proclamação da República em 1889?",
+        "answer1": "Dom Pedro II",
+        "answer2": "Getúlio Vargas",
+        "answer3": "Marechal Deodoro da Fonseca",
+        "answer4": "Tiradentes",
+        "correctanswer": "Marechal Deodoro da Fonseca",
+        "subject": "historia"
     },
     "100": {
-        "question": "Qual é o artigo definido masculino plural?",
-        "answer1": "O",
-        "answer2": "Os",
-        "answer3": "A",
-        "answer4": "As",
-        "correctanswer": "Os"
-    },
-    "101": {
-        "question": "Identifique o pronome pessoal do caso reto da primeira pessoa do singular:",
-        "answer1": "Eu",
-        "answer2": "Tu",
-        "answer3": "Ele",
-        "answer4": "Nós",
-        "correctanswer": "Eu"
+        "question": "Quem foram os primeiros a viajar pelo Oceano Atlântico?",
+        "answer1": "Espanhóis",
+        "answer2": "Portugueses",
+        "answer3": "Franceses",
+        "answer4": "Holandeses",
+        "correctanswer": "Portugueses",
+        "subject": "historia"
     }
 }

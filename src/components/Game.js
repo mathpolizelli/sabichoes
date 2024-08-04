@@ -11,7 +11,7 @@ import transition from "../sounds/transition.mp3";
 import gameOverSound from "../sounds/game-over.mp3";
 
 function Game() {
-  const n = 101;
+  const n = 100;
   const [playerName, setPlayerName] = useState("");
   const [inputValue, setInputValue] = useState();
   const [lives, setLives] = useState(3);
